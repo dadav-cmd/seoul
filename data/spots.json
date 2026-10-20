@@ -1,0 +1,8410 @@
+{
+ "version": "2026-10-20",
+ "city": "seoul",
+ "note": "status=checked はウェブで開館・所在を確認済み。unverified は未確認。位置はすべて目安（approx=true）。",
+ "spots": [
+  {
+   "id": "K-001",
+   "name": "景福宮",
+   "nameKo": "경복궁",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "宮殿",
+    "世界の定番"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1395,
+   "ward": "鍾路区",
+   "address": "서울 종로구 사직로 161",
+   "lat": 37.5796,
+   "lng": 126.977,
+   "approx": true,
+   "summary": "朝鮮王朝の正宮。1867年に再建された勤政殿や慶会楼が並び、北岳山を背景にした景観が美しい。韓服を着ると入場無料になる。",
+   "highlights": [
+    "勤政殿",
+    "慶会楼",
+    "守門将交代式"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    2
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-002",
+   "name": "光化門",
+   "nameKo": "광화문",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "宮殿",
+    "門"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1395,
+   "ward": "鍾路区",
+   "address": "서울 종로구 사직로 161",
+   "lat": 37.5759,
+   "lng": 126.9768,
+   "approx": true,
+   "summary": "景福宮の正門。2010年に木造で復元され、門前の光化門広場とともにソウルの顔となっている。",
+   "highlights": [
+    "守門将交代式",
+    "門前の月台"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-003",
+   "name": "昌徳宮",
+   "nameKo": "창덕궁",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "宮殿",
+    "世界遺産"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1405,
+   "ward": "鍾路区",
+   "address": "서울 종로구 율곡로 99",
+   "lat": 37.5794,
+   "lng": 126.991,
+   "approx": true,
+   "summary": "自然の地形に合わせて殿閣を配した宮殿で、世界遺産。後苑（秘苑）は時間指定のガイドツアーで巡る。",
+   "highlights": [
+    "仁政殿",
+    "後苑（予約制ツアー）"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-004",
+   "name": "昌慶宮",
+   "nameKo": "창경궁",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "宮殿",
+    "温室"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1484,
+   "ward": "鍾路区",
+   "address": "서울 종로구 창경궁로 185",
+   "lat": 37.5788,
+   "lng": 126.995,
+   "approx": true,
+   "summary": "昌徳宮と隣り合う宮殿。1909年に建てられた白い木造とガラスの大温室が残る。",
+   "highlights": [
+    "大温室",
+    "春塘池"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-005",
+   "name": "宗廟",
+   "nameKo": "종묘",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "世界遺産",
+    "祠堂"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1395,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로 157",
+   "lat": 37.5744,
+   "lng": 126.9941,
+   "approx": true,
+   "summary": "朝鮮王朝の歴代王と王妃の位牌を祀る祠堂。長さ約100mの正殿は、簡素で荘厳な建築として世界遺産に登録されている。",
+   "highlights": [
+    "約100mの正殿",
+    "宗廟祭礼（5月）"
+   ],
+   "visit": "入場可（平日はガイド付き）",
+   "closedDays": [
+    2
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-006",
+   "name": "慶熙宮",
+   "nameKo": "경희궁",
+   "category": "architecture",
+   "tags": [
+    "宮殿"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1623,
+   "ward": "鍾路区",
+   "address": "서울 종로구 새문안로 45",
+   "lat": 37.5715,
+   "lng": 126.9686,
+   "approx": true,
+   "summary": "ソウル西側の離宮。復元された崇政殿の周りは静かで、ソウル歴史博物館と隣接している。",
+   "highlights": [
+    "崇政殿"
+   ],
+   "visit": "入場無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-007",
+   "name": "雲峴宮",
+   "nameKo": "운현궁",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "韓屋",
+    "史跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1863,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼일대로 464",
+   "lat": 37.5744,
+   "lng": 126.9864,
+   "approx": true,
+   "summary": "興宣大院君の私邸。王宮とは異なる上流の住まいの韓屋を見学できる。",
+   "highlights": [
+    "老安堂",
+    "二老堂"
+   ],
+   "visit": "入場無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-008",
+   "name": "北村韓屋村",
+   "nameKo": "북촌한옥마을",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "韓屋",
+    "街並み"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1930,
+   "ward": "鍾路区",
+   "address": "서울 종로구 계동길 37",
+   "lat": 37.5826,
+   "lng": 126.983,
+   "approx": true,
+   "summary": "景福宮と昌徳宮の間の丘に韓屋が密集する住宅地。現在も人が暮らしているため、観光の時間帯が定められた区域がある。",
+   "highlights": [
+    "嘉会洞の坂道からの眺め"
+   ],
+   "visit": "外観のみ（居住地のため静かに）",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-009",
+   "name": "白仁済家屋",
+   "nameKo": "백인제가옥",
+   "category": "architecture",
+   "tags": [
+    "韓屋",
+    "近代住宅"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1913,
+   "ward": "鍾路区",
+   "address": "서울 종로구 북촌로7길 16",
+   "lat": 37.5822,
+   "lng": 126.9866,
+   "approx": true,
+   "summary": "北村にある近代の大型韓屋。和洋の要素を取り入れた上流住宅を公開している。",
+   "highlights": [
+    "2階建ての韓屋",
+    "庭"
+   ],
+   "visit": "入場可（予約制あり）",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-010",
+   "name": "曹渓寺",
+   "nameKo": "조계사",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "寺院"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1910,
+   "ward": "鍾路区",
+   "address": "서울 종로구 우정국로 55",
+   "lat": 37.5739,
+   "lng": 126.9817,
+   "approx": true,
+   "summary": "韓国仏教最大の宗派・曹渓宗の総本山。春の燃灯会では境内が提灯で埋め尽くされる。",
+   "highlights": [
+    "大雄殿",
+    "燃灯の装飾"
+   ],
+   "visit": "参拝自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-011",
+   "name": "普信閣",
+   "nameKo": "보신각",
+   "category": "architecture",
+   "tags": [
+    "楼閣"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1979,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로 54",
+   "lat": 37.5698,
+   "lng": 126.983,
+   "approx": true,
+   "summary": "鐘楼の楼閣。大晦日の除夜の鐘で知られる。",
+   "highlights": [
+    "鐘楼"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-012",
+   "name": "社稷壇",
+   "nameKo": "사직단",
+   "category": "architecture",
+   "tags": [
+    "史跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1395,
+   "ward": "鍾路区",
+   "address": "서울 종로구 사직로 89",
+   "lat": 37.5757,
+   "lng": 126.9686,
+   "approx": true,
+   "summary": "土地と五穀の神を祀った祭壇。景福宮の西側にある。",
+   "highlights": [
+    "祭壇と石垣"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-013",
+   "name": "成均館 明倫堂",
+   "nameKo": "성균관 명륜당",
+   "category": "architecture",
+   "tags": [
+    "史跡",
+    "学校"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1398,
+   "ward": "鍾路区",
+   "address": "서울 종로구 성균관로 31",
+   "lat": 37.5866,
+   "lng": 126.9978,
+   "approx": true,
+   "summary": "朝鮮時代の最高学府の講堂。樹齢数百年のイチョウが並ぶ。",
+   "highlights": [
+    "イチョウの古木"
+   ],
+   "visit": "外観自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-014",
+   "name": "国立現代美術館 ソウル館（MMCA）",
+   "nameKo": "국립현대미술관 서울관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "美術館",
+    "現代美術"
+   ],
+   "designers": [
+    "閔賢準"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2013,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼청로 30",
+   "lat": 37.5788,
+   "lng": 126.98,
+   "approx": true,
+   "summary": "旧国軍機務司令部の跡地に建つ現代美術館。分棟配置の建物の間に中庭（マダン）が散りばめられている。",
+   "highlights": [
+    "中庭のマダン",
+    "旧機務司令部の赤レンガ棟"
+   ],
+   "visit": "入館可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-015",
+   "name": "国立民俗博物館",
+   "nameKo": "국립민속박물관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "博物館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1993,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼청로 37",
+   "lat": 37.5815,
+   "lng": 126.979,
+   "approx": true,
+   "summary": "景福宮の敷地内にある民俗博物館。仏国寺などを模した塔状の建物が目印。",
+   "highlights": [
+    "伝統建築を模した外観"
+   ],
+   "visit": "入館無料",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-016",
+   "name": "国立古宮博物館",
+   "nameKo": "국립고궁박물관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "博物館",
+    "王室"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2005,
+   "ward": "鍾路区",
+   "address": "서울 종로구 효자로 12",
+   "lat": 37.5768,
+   "lng": 126.975,
+   "approx": true,
+   "summary": "朝鮮王室の遺物を展示する博物館。景福宮の入口にある。",
+   "highlights": [
+    "王室の遺物"
+   ],
+   "visit": "入館無料",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-017",
+   "name": "ソウル工芸博物館",
+   "nameKo": "서울공예박물관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "博物館",
+    "工芸",
+    "リノベーション"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2021,
+   "ward": "鍾路区",
+   "address": "서울 종로구 율곡로3길 4",
+   "lat": 37.5757,
+   "lng": 126.9843,
+   "approx": true,
+   "summary": "旧風文女子高校の校舎を改修した韓国初の公立工芸博物館。中庭の大きなイチョウが目印。",
+   "highlights": [
+    "旧校舎の展示棟",
+    "中庭のイチョウ"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-018",
+   "name": "アラリオミュージアム イン スペース（旧空間社屋）",
+   "nameKo": "아라리오뮤지엄 인 스페이스",
+   "category": "architecture",
+   "tags": [
+    "金壽根",
+    "リノベーション"
+   ],
+   "designers": [
+    "金壽根"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1971,
+   "ward": "鍾路区",
+   "address": "서울 종로구 율곡로 83",
+   "lat": 37.5765,
+   "lng": 126.9881,
+   "approx": true,
+   "summary": "韓国近代建築を代表する金壽根の設計事務所「空間」の社屋。ツタに覆われた黒レンガの建物が現代美術館になっている。",
+   "highlights": [
+    "迷路のようなスキップフロア",
+    "ツタの外観"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-019",
+   "name": "大林美術館",
+   "nameKo": "대림미술관",
+   "category": "architecture",
+   "tags": [
+    "美術館",
+    "デザイン"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2002,
+   "ward": "鍾路区",
+   "address": "서울 종로구 자하문로4길 21",
+   "lat": 37.577,
+   "lng": 126.9726,
+   "approx": true,
+   "summary": "西村の住宅を改装した美術館。デザインや写真の企画展で知られる。2026年10月時点で休館中と表示されている。",
+   "highlights": [
+    "ステンドグラス風の外壁"
+   ],
+   "visit": "休館中（外観のみ）",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-020",
+   "name": "国際ギャラリー K3",
+   "nameKo": "국제갤러리",
+   "category": "architecture",
+   "tags": [
+    "ギャラリー",
+    "SO-IL"
+   ],
+   "designers": [
+    "SO-IL"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2012,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼청로 54",
+   "lat": 37.5803,
+   "lng": 126.981,
+   "approx": true,
+   "summary": "三清路の現代美術ギャラリー。K3棟は金属のチェーンメッシュで建物全体を覆っている。",
+   "highlights": [
+    "チェーンメッシュの外装"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-021",
+   "name": "アートソンジェセンター",
+   "nameKo": "아트선재센터",
+   "category": "architecture",
+   "tags": [
+    "現代美術",
+    "禹圭昇"
+   ],
+   "designers": [
+    "禹圭昇"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1998,
+   "ward": "鍾路区",
+   "address": "서울 종로구 율곡로3길 87",
+   "lat": 37.5794,
+   "lng": 126.9832,
+   "approx": true,
+   "summary": "北村の入口にある現代美術センター。曲面の壁が中庭を包む。",
+   "highlights": [
+    "曲面の外壁",
+    "屋上"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-022",
+   "name": "一民美術館（旧東亜日報社屋）",
+   "nameKo": "일민미술관",
+   "category": "architecture",
+   "tags": [
+    "近代建築",
+    "美術館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1926,
+   "ward": "鍾路区",
+   "address": "서울 종로구 세종대로 152",
+   "lat": 37.5703,
+   "lng": 126.978,
+   "approx": true,
+   "summary": "光化門の旧東亜日報社屋を改修した美術館。",
+   "highlights": [
+    "近代のオフィスビル"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-023",
+   "name": "ソウル歴史博物館",
+   "nameKo": "서울역사박물관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "博物館",
+    "都市"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2002,
+   "ward": "鍾路区",
+   "address": "서울 종로구 새문안로 55",
+   "lat": 37.5704,
+   "lng": 126.9701,
+   "approx": true,
+   "summary": "ソウルの都市の歴史を紹介する博物館。巨大なソウルの都市模型がある。",
+   "highlights": [
+    "ソウルの都市模型",
+    "前庭の路面電車"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-024",
+   "name": "世宗文化会館",
+   "nameKo": "세종문화회관",
+   "category": "architecture",
+   "tags": [
+    "劇場"
+   ],
+   "designers": [
+    "厳徳紋"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1978,
+   "ward": "鍾路区",
+   "address": "서울 종로구 세종대로 175",
+   "lat": 37.5725,
+   "lng": 126.9758,
+   "approx": true,
+   "summary": "光化門広場に面した大規模な文化施設。伝統建築の意匠を取り入れた列柱の外観。",
+   "highlights": [
+    "伝統意匠の列柱"
+   ],
+   "visit": "館内一部自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-025",
+   "name": "鍾路タワー",
+   "nameKo": "종로타워",
+   "category": "architecture",
+   "tags": [
+    "超高層",
+    "ヴィニオリ"
+   ],
+   "designers": [
+    "ラファエル・ヴィニオリ"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1999,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로 51",
+   "lat": 37.5706,
+   "lng": 126.9834,
+   "approx": true,
+   "summary": "3本の柱で最上部の大きな四角い枠を持ち上げた超高層ビル。",
+   "highlights": [
+    "頂部の浮かぶ枠"
+   ],
+   "visit": "外観のみ",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-026",
+   "name": "サムジギル",
+   "nameKo": "쌈지길",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "崔文奎",
+    "工芸"
+   ],
+   "designers": [
+    "崔文奎"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2004,
+   "ward": "鍾路区",
+   "address": "서울 종로구 인사동길 44",
+   "lat": 37.5743,
+   "lng": 126.9853,
+   "approx": true,
+   "summary": "仁寺洞の工芸ショップが入る建物。ゆるやかなスロープが中庭を巡り、屋上まで店が続く。",
+   "highlights": [
+    "中庭を巡るスロープ"
+   ],
+   "visit": "館内自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-027",
+   "name": "ユン・ドンジュ文学館",
+   "nameKo": "윤동주문학관",
+   "category": "architecture",
+   "tags": [
+    "リノベーション",
+    "文学館"
+   ],
+   "designers": [
+    "李昭珍"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2012,
+   "ward": "鍾路区",
+   "address": "서울 종로구 창의문로 119",
+   "lat": 37.59,
+   "lng": 126.9655,
+   "approx": true,
+   "summary": "詩人尹東柱を記念する文学館。使われなくなった水道施設の水槽を「閉じられた井戸」「開かれた井戸」として残した。",
+   "highlights": [
+    "天井のない「開かれた井戸」"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-028",
+   "name": "煥基美術館",
+   "nameKo": "환기미술관",
+   "category": "architecture",
+   "tags": [
+    "禹圭昇",
+    "美術館"
+   ],
+   "designers": [
+    "禹圭昇"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1992,
+   "ward": "鍾路区",
+   "address": "서울 종로구 자하문로40길 63",
+   "lat": 37.5928,
+   "lng": 126.964,
+   "approx": true,
+   "summary": "画家金煥基の作品を展示する美術館。付岩洞の谷あいに建ち、天窓のある吹き抜けが美しい。",
+   "highlights": [
+    "天窓の吹き抜け"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-029",
+   "name": "石坡亭 ソウル美術館",
+   "nameKo": "석파정 서울미술관",
+   "category": "architecture",
+   "tags": [
+    "美術館",
+    "庭園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2012,
+   "ward": "鍾路区",
+   "address": "서울 종로구 창의문로11길 4-1",
+   "lat": 37.595,
+   "lng": 126.965,
+   "approx": true,
+   "summary": "美術館の屋上から、大院君の別荘だった石坡亭の庭園へ抜けられる。",
+   "highlights": [
+    "石坡亭の庭園"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-030",
+   "name": "アルコ美術館・アルコ芸術劇場",
+   "nameKo": "아르코미술관",
+   "category": "architecture",
+   "tags": [
+    "金壽根",
+    "赤レンガ"
+   ],
+   "designers": [
+    "金壽根"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1979,
+   "ward": "鍾路区",
+   "address": "서울 종로구 동숭길 3",
+   "lat": 37.5808,
+   "lng": 127.0036,
+   "approx": true,
+   "summary": "大学路マロニエ公園に面した赤レンガの美術館と劇場。金壽根の設計。",
+   "highlights": [
+    "赤レンガの外観"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-031",
+   "name": "旧京城帝国大学本館（芸術家の家）",
+   "nameKo": "예술가의 집",
+   "category": "architecture",
+   "tags": [
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1931,
+   "ward": "鍾路区",
+   "address": "서울 종로구 대학로 100",
+   "lat": 37.5815,
+   "lng": 127.003,
+   "approx": true,
+   "summary": "大学路マロニエ公園に残る旧京城帝国大学の本館。",
+   "highlights": [
+    "近代のレンガ造"
+   ],
+   "visit": "外観のみ",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-032",
+   "name": "ソウル大学病院 医学博物館（旧大韓医院）",
+   "nameKo": "대한의원",
+   "category": "architecture",
+   "tags": [
+    "近代建築",
+    "時計塔"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1908,
+   "ward": "鍾路区",
+   "address": "서울 종로구 대학로 101",
+   "lat": 37.5798,
+   "lng": 126.9993,
+   "approx": true,
+   "summary": "時計塔をもつ大韓帝国期の病院本館。",
+   "highlights": [
+    "時計塔"
+   ],
+   "visit": "外観・展示",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-033",
+   "name": "仁寺洞",
+   "nameKo": "인사동",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "伝統工芸"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1930,
+   "ward": "鍾路区",
+   "address": "서울 종로구 인사동길",
+   "lat": 37.574,
+   "lng": 126.9855,
+   "approx": true,
+   "summary": "骨董品、韓紙、伝統茶の店が並ぶ通り。路地に伝統茶院が点在する。",
+   "highlights": [
+    "メイン通りと路地"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-034",
+   "name": "益善洞韓屋通り",
+   "nameKo": "익선동 한옥거리",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "韓屋",
+    "街歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1920,
+   "ward": "鍾路区",
+   "address": "서울 종로구 수표로28길",
+   "lat": 37.5741,
+   "lng": 126.9895,
+   "approx": true,
+   "summary": "1920年代に造られた小さな都市型韓屋の路地。韓屋を改装したカフェや飲食店が並ぶ。",
+   "highlights": [
+    "韓屋の路地"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-035",
+   "name": "西村（ソチョン）",
+   "nameKo": "서촌",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "韓屋"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1900,
+   "ward": "鍾路区",
+   "address": "서울 종로구 자하문로",
+   "lat": 37.579,
+   "lng": 126.97,
+   "approx": true,
+   "summary": "景福宮の西側の古い住宅地。韓屋や小さな店、ギャラリーが点在する。",
+   "highlights": [
+    "路地の韓屋"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-036",
+   "name": "三清洞",
+   "nameKo": "삼청동",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "ギャラリー"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1990,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼청로",
+   "lat": 37.584,
+   "lng": 126.982,
+   "approx": true,
+   "summary": "景福宮の東側の坂道にギャラリーやカフェ、ショップが並ぶ。",
+   "highlights": [
+    "ギャラリー通り"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-037",
+   "name": "崇礼門（南大門）",
+   "nameKo": "숭례문",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "国宝",
+    "門"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1398,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 40",
+   "lat": 37.56,
+   "lng": 126.9754,
+   "approx": true,
+   "summary": "ソウルの城郭の正門で国宝第1号。2008年の火災後、2013年に復旧された。",
+   "highlights": [
+    "二重の楼閣"
+   ],
+   "visit": "外観自由",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-038",
+   "name": "興仁之門（東大門）",
+   "nameKo": "흥인지문",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "門",
+    "城郭"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1398,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로 288",
+   "lat": 37.5711,
+   "lng": 127.0095,
+   "approx": true,
+   "summary": "ソウル城郭の東の大門。半円形の甕城を伴うのが特徴。夜のライトアップが美しい。",
+   "highlights": [
+    "甕城",
+    "夜景"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-039",
+   "name": "漢陽都城博物館",
+   "nameKo": "한양도성박물관",
+   "category": "architecture",
+   "tags": [
+    "博物館",
+    "城郭"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "鍾路区",
+   "address": "서울 종로구 율곡로 283",
+   "lat": 37.5718,
+   "lng": 127.0098,
+   "approx": true,
+   "summary": "ソウルを囲む城郭「漢陽都城」の歴史を紹介する博物館。城郭散策の起点になる。",
+   "highlights": [
+    "城郭の模型"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-040",
+   "name": "東大門デザインプラザ（DDP）",
+   "nameKo": "동대문디자인플라자",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "ザハ・ハディド",
+    "デザイン"
+   ],
+   "designers": [
+    "ザハ・ハディド"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2014,
+   "ward": "中区",
+   "address": "서울 중구 을지로 281",
+   "lat": 37.5667,
+   "lng": 127.009,
+   "approx": true,
+   "summary": "曲面のアルミパネルで覆われた巨大な展示・デザイン施設。夜は屋上の芝生とLEDのバラ庭園が光る。",
+   "highlights": [
+    "曲面のアルミ外装",
+    "夜の外観"
+   ],
+   "visit": "館内自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-041",
+   "name": "徳寿宮",
+   "nameKo": "덕수궁",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "宮殿",
+    "洋館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1593,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 99",
+   "lat": 37.5658,
+   "lng": 126.9751,
+   "approx": true,
+   "summary": "伝統の殿閣と石造の洋館が並ぶ宮殿。石造殿は大韓帝国期の1910年に完成した。",
+   "highlights": [
+    "石造殿",
+    "大漢門の守門将交代式"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-042",
+   "name": "重明殿",
+   "nameKo": "중명전",
+   "category": "architecture",
+   "tags": [
+    "洋館",
+    "史跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1901,
+   "ward": "中区",
+   "address": "서울 중구 정동길 41-11",
+   "lat": 37.5655,
+   "lng": 126.9715,
+   "approx": true,
+   "summary": "徳寿宮の別館として建てられた洋館。乙巳条約が結ばれた場所として知られる。",
+   "highlights": [
+    "レンガの洋館"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-043",
+   "name": "貞洞第一教会",
+   "nameKo": "정동제일교회",
+   "category": "architecture",
+   "tags": [
+    "教会",
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1897,
+   "ward": "中区",
+   "address": "서울 중구 정동길 46",
+   "lat": 37.566,
+   "lng": 126.9718,
+   "approx": true,
+   "summary": "韓国最古のプロテスタント教会のレンガ造礼拝堂。",
+   "highlights": [
+    "赤レンガの礼拝堂"
+   ],
+   "visit": "外観",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-044",
+   "name": "培材学堂歴史博物館",
+   "nameKo": "배재학당역사박물관",
+   "category": "architecture",
+   "tags": [
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1916,
+   "ward": "中区",
+   "address": "서울 중구 서소문로11길 19",
+   "lat": 37.5663,
+   "lng": 126.9708,
+   "approx": true,
+   "summary": "韓国初の近代私立学校の東館を使った博物館。",
+   "highlights": [
+    "近代の校舎"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-045",
+   "name": "旧ロシア公使館",
+   "nameKo": "구 러시아공사관",
+   "category": "architecture",
+   "tags": [
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1890,
+   "ward": "中区",
+   "address": "서울 중구 정동길 21-18",
+   "lat": 37.5682,
+   "lng": 126.9718,
+   "approx": true,
+   "summary": "高宗が一時避難した公使館の塔屋が残る。",
+   "highlights": [
+    "白い塔屋"
+   ],
+   "visit": "外観のみ",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-046",
+   "name": "ソウル聖公会 主教座聖堂",
+   "nameKo": "서울주교좌성당",
+   "category": "architecture",
+   "tags": [
+    "教会"
+   ],
+   "designers": [
+    "アーサー・ディクソン"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1926,
+   "ward": "中区",
+   "address": "서울 중구 세종대로21길 15",
+   "lat": 37.5662,
+   "lng": 126.9765,
+   "approx": true,
+   "summary": "ロマネスク様式に韓国の瓦屋根を組み合わせた大聖堂。",
+   "highlights": [
+    "瓦屋根のロマネスク聖堂"
+   ],
+   "visit": "外観・礼拝時",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-047",
+   "name": "明洞聖堂",
+   "nameKo": "명동성당",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "教会",
+    "ゴシック"
+   ],
+   "designers": [
+    "コスト神父"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1898,
+   "ward": "中区",
+   "address": "서울 중구 명동길 74",
+   "lat": 37.5633,
+   "lng": 126.9873,
+   "approx": true,
+   "summary": "韓国初のゴシック様式の聖堂。明洞の坂の上に建つ。",
+   "highlights": [
+    "ゴシックの尖塔",
+    "聖堂内のステンドグラス"
+   ],
+   "visit": "内部見学可（ミサに配慮）",
+   "closedDays": [],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-048",
+   "name": "薬峴聖堂",
+   "nameKo": "약현성당",
+   "category": "architecture",
+   "tags": [
+    "教会"
+   ],
+   "designers": [
+    "コスト神父"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1892,
+   "ward": "中区",
+   "address": "서울 중구 청파로 447-1",
+   "lat": 37.5591,
+   "lng": 126.9671,
+   "approx": true,
+   "summary": "韓国初の西洋式教会建築。丘の上に建つ小さなレンガの聖堂。",
+   "highlights": [
+    "レンガの外観"
+   ],
+   "visit": "外観",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-049",
+   "name": "ソソムン聖地歴史博物館",
+   "nameKo": "서소문성지역사박물관",
+   "category": "architecture",
+   "tags": [
+    "博物館",
+    "祈りの空間"
+   ],
+   "designers": [
+    "尹承鉉"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2019,
+   "ward": "中区",
+   "address": "서울 중구 칠패로 5",
+   "lat": 37.5604,
+   "lng": 126.9686,
+   "approx": true,
+   "summary": "処刑場跡に建つ歴史博物館。地下に降りると天井の開いた「空の広場」がある。",
+   "highlights": [
+    "地下の「空の広場」"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-050",
+   "name": "文化駅ソウル284（旧ソウル駅舎）",
+   "nameKo": "문화역서울284",
+   "category": "architecture",
+   "tags": [
+    "近代建築",
+    "駅舎"
+   ],
+   "designers": [
+    "塚本靖"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1925,
+   "ward": "中区",
+   "address": "서울 중구 통일로 1",
+   "lat": 37.556,
+   "lng": 126.9719,
+   "approx": true,
+   "summary": "旧京城駅の駅舎を展示・文化施設として公開している。ドームと赤レンガの外観。",
+   "highlights": [
+    "中央ホールのドーム"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-051",
+   "name": "ソウル市立美術館（旧大法院）",
+   "nameKo": "서울시립미술관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "美術館",
+    "ファサード保存"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1928,
+   "ward": "中区",
+   "address": "서울 중구 덕수궁길 61",
+   "lat": 37.564,
+   "lng": 126.9737,
+   "approx": true,
+   "summary": "旧大法院の正面だけを残して新しい美術館を背後に建てた。徳寿宮の石垣道の先にある。",
+   "highlights": [
+    "保存された正面"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-052",
+   "name": "貨幣博物館（旧朝鮮銀行本店）",
+   "nameKo": "화폐박물관",
+   "category": "architecture",
+   "tags": [
+    "辰野金吾",
+    "近代建築"
+   ],
+   "designers": [
+    "辰野金吾"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1912,
+   "ward": "中区",
+   "address": "서울 중구 남대문로 39",
+   "lat": 37.5619,
+   "lng": 126.9811,
+   "approx": true,
+   "summary": "辰野金吾が設計した旧朝鮮銀行本店。石造の外観を残し、貨幣の博物館になっている。",
+   "highlights": [
+    "石造の外観",
+    "中央ホール"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-053",
+   "name": "明洞芸術劇場（旧明治座）",
+   "nameKo": "명동예술극장",
+   "category": "architecture",
+   "tags": [
+    "劇場",
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1936,
+   "ward": "中区",
+   "address": "서울 중구 명동길 35",
+   "lat": 37.5639,
+   "lng": 126.984,
+   "approx": true,
+   "summary": "昭和初期の劇場建築を復元・改修した国立劇場。",
+   "highlights": [
+    "角の塔状の外観"
+   ],
+   "visit": "公演時",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-054",
+   "name": "三一ビル",
+   "nameKo": "삼일빌딩",
+   "category": "architecture",
+   "tags": [
+    "金重業",
+    "モダニズム"
+   ],
+   "designers": [
+    "金重業"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1970,
+   "ward": "中区",
+   "address": "서울 중구 삼일대로 363",
+   "lat": 37.5686,
+   "lng": 126.9873,
+   "approx": true,
+   "summary": "清渓川沿いに建つ、ミース・ファン・デル・ローエ風の黒い鉄とガラスの高層ビル。完成当時は韓国最高層だった。",
+   "highlights": [
+    "黒い鉄とガラスの外観"
+   ],
+   "visit": "外観のみ",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-055",
+   "name": "世運商街",
+   "nameKo": "세운상가",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "金壽根",
+    "メガストラクチャー"
+   ],
+   "designers": [
+    "金壽根"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1967,
+   "ward": "鍾路区",
+   "address": "서울 종로구 청계천로 159",
+   "lat": 37.5703,
+   "lng": 126.9938,
+   "approx": true,
+   "summary": "鍾路から南山へ延びる約1kmの巨大な電気街の複合ビル。再生事業で空中歩廊と屋上展望台が整備された。",
+   "highlights": [
+    "空中歩廊",
+    "屋上の展望台"
+   ],
+   "visit": "館内自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-056",
+   "name": "ソウルスクエア（旧大宇ビル）",
+   "nameKo": "서울스퀘어",
+   "category": "architecture",
+   "tags": [
+    "メディアファサード"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1977,
+   "ward": "中区",
+   "address": "서울 중구 한강대로 416",
+   "lat": 37.555,
+   "lng": 126.973,
+   "approx": true,
+   "summary": "ソウル駅前の巨大なオフィスビル。夜は外壁全体がメディアファサードになる。",
+   "highlights": [
+    "夜のメディアファサード"
+   ],
+   "visit": "外観のみ",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-057",
+   "name": "奨忠体育館",
+   "nameKo": "장충체육관",
+   "category": "architecture",
+   "tags": [
+    "モダニズム"
+   ],
+   "designers": [
+    "金正洙"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1963,
+   "ward": "中区",
+   "address": "서울 중구 동호로 241",
+   "lat": 37.558,
+   "lng": 127.0065,
+   "approx": true,
+   "summary": "韓国初の屋内競技場。ドーム屋根の円形体育館。",
+   "highlights": [
+    "ドーム屋根"
+   ],
+   "visit": "外観・試合時",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-058",
+   "name": "国立劇場",
+   "nameKo": "국립극장",
+   "category": "architecture",
+   "tags": [
+    "劇場"
+   ],
+   "designers": [
+    "李喜泰"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1973,
+   "ward": "中区",
+   "address": "서울 중구 장충단로 59",
+   "lat": 37.5524,
+   "lng": 127.003,
+   "approx": true,
+   "summary": "南山の中腹に建つ国立劇場。伝統建築を思わせる列柱の外観。",
+   "highlights": [
+    "列柱の大階段"
+   ],
+   "visit": "公演時",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-059",
+   "name": "景東教会",
+   "nameKo": "경동교회",
+   "category": "architecture",
+   "tags": [
+    "金壽根",
+    "教会"
+   ],
+   "designers": [
+    "金壽根"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1981,
+   "ward": "中区",
+   "address": "서울 중구 장충단로 204",
+   "lat": 37.5617,
+   "lng": 127.0055,
+   "approx": true,
+   "summary": "祈る手をかたちにしたと言われるレンガの教会。外階段を上って礼拝堂に入る。",
+   "highlights": [
+    "レンガの外壁",
+    "外階段"
+   ],
+   "visit": "外観・礼拝時",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-060",
+   "name": "南山コル韓屋村",
+   "nameKo": "남산골한옥마을",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "韓屋",
+    "体験"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1998,
+   "ward": "中区",
+   "address": "서울 중구 퇴계로34길 28",
+   "lat": 37.5594,
+   "lng": 126.9945,
+   "approx": true,
+   "summary": "ソウル各地から移築・復元した5棟の韓屋と伝統庭園。伝統文化の体験ができる。",
+   "highlights": [
+    "移築された韓屋",
+    "伝統庭園"
+   ],
+   "visit": "入場無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-061",
+   "name": "安重根義士記念館",
+   "nameKo": "안중근의사기념관",
+   "category": "architecture",
+   "tags": [
+    "記念館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2010,
+   "ward": "中区",
+   "address": "서울 중구 소월로 91",
+   "lat": 37.5531,
+   "lng": 126.984,
+   "approx": true,
+   "summary": "南山公園にある記念館。12本の柱が立つガラスの外観。",
+   "highlights": [
+    "ガラスの外観"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-062",
+   "name": "新世界百貨店 本店 本館（旧三越京城店）",
+   "nameKo": "신세계백화점 본점",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "近代建築",
+    "百貨店"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1930,
+   "ward": "中区",
+   "address": "서울 중구 소공로 63",
+   "lat": 37.5609,
+   "lng": 126.981,
+   "approx": true,
+   "summary": "旧三越京城店の建物を使う百貨店。本館の外観と屋上庭園が残る。",
+   "highlights": [
+    "近代の本館",
+    "屋上庭園"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-063",
+   "name": "国立中央博物館",
+   "nameKo": "국립중앙박물관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "博物館"
+   ],
+   "designers": [
+    "朴承洪（正林建築）"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2005,
+   "ward": "龍山区",
+   "address": "서울 용산구 서빙고로 137",
+   "lat": 37.524,
+   "lng": 126.9803,
+   "approx": true,
+   "summary": "韓国最大の博物館。長さ約400mの建物の中央に南山を望む大きな開口「広場の階段」がある。常設展は無料。",
+   "highlights": [
+    "南山を切り取る中央の開口",
+    "思惟の部屋"
+   ],
+   "visit": "入館無料",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-064",
+   "name": "国立ハングル博物館",
+   "nameKo": "국립한글박물관",
+   "category": "architecture",
+   "tags": [
+    "博物館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "龍山区",
+   "address": "서울 용산구 서빙고로 139",
+   "lat": 37.5214,
+   "lng": 126.9813,
+   "approx": true,
+   "summary": "ハングルの歴史と文化を紹介する博物館。国立中央博物館に隣接する。",
+   "highlights": [
+    "ハングルの展示"
+   ],
+   "visit": "入館無料",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-065",
+   "name": "戦争記念館",
+   "nameKo": "전쟁기념관",
+   "category": "architecture",
+   "tags": [
+    "博物館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1994,
+   "ward": "龍山区",
+   "address": "서울 용산구 이태원로 29",
+   "lat": 37.5365,
+   "lng": 126.9772,
+   "approx": true,
+   "summary": "朝鮮戦争などの歴史を展示する大規模な記念館。屋外に航空機や戦車が並ぶ。",
+   "highlights": [
+    "屋外展示場"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-066",
+   "name": "リウム美術館",
+   "nameKo": "리움미술관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "美術館",
+    "マリオ・ボッタ",
+    "ジャン・ヌーヴェル"
+   ],
+   "designers": [
+    "マリオ・ボッタ",
+    "ジャン・ヌーヴェル",
+    "レム・コールハース"
+   ],
+   "designerTypes": [
+    "建築家",
+    "建築家",
+    "建築家"
+   ],
+   "year": 2004,
+   "ward": "龍山区",
+   "address": "서울 용산구 이태원로55길 60-16",
+   "lat": 37.5384,
+   "lng": 126.9993,
+   "approx": true,
+   "summary": "サムスン文化財団の美術館。古美術館をボッタ、現代美術館をヌーヴェル、児童教育文化センターをコールハースが設計した。",
+   "highlights": [
+    "3人の建築家の棟の対比",
+    "ボッタ棟の円形吹き抜け"
+   ],
+   "visit": "入館可（予約推奨）",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-067",
+   "name": "アモーレパシフィック本社（APMA）",
+   "nameKo": "아모레퍼시픽 본사",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "チッパーフィールド",
+    "美術館"
+   ],
+   "designers": [
+    "デイヴィッド・チッパーフィールド"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2017,
+   "ward": "龍山区",
+   "address": "서울 용산구 한강대로 100",
+   "lat": 37.5291,
+   "lng": 126.9682,
+   "approx": true,
+   "summary": "白いアルミのルーバーで覆われた立方体の本社ビル。低層の吹き抜けアトリウムと地下の美術館APMAは一般公開。",
+   "highlights": [
+    "吹き抜けのアトリウム",
+    "APMA"
+   ],
+   "visit": "アトリウム・美術館",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-068",
+   "name": "Nソウルタワー",
+   "nameKo": "N서울타워",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "展望",
+    "夜景"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1975,
+   "ward": "龍山区",
+   "address": "서울 용산구 남산공원길 105",
+   "lat": 37.5512,
+   "lng": 126.9882,
+   "approx": true,
+   "summary": "南山の山頂に立つ電波塔。展望台からソウル全体を見渡せ、夜景の名所として知られる。",
+   "highlights": [
+    "展望台",
+    "夜景",
+    "愛の南京錠"
+   ],
+   "visit": "展望台は有料",
+   "closedDays": [],
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-069",
+   "name": "龍山歴史博物館（旧龍山鉄道病院）",
+   "nameKo": "용산역사박물관",
+   "category": "architecture",
+   "tags": [
+    "近代建築",
+    "リノベーション"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1928,
+   "ward": "龍山区",
+   "address": "서울 용산구 한강대로14길 35",
+   "lat": 37.53,
+   "lng": 126.965,
+   "approx": true,
+   "summary": "旧龍山鉄道病院のレンガ建築を改修した区立博物館。",
+   "highlights": [
+    "レンガの外観"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-070",
+   "name": "切頭山殉教聖地",
+   "nameKo": "절두산 순교성지",
+   "category": "architecture",
+   "tags": [
+    "教会",
+    "李喜泰"
+   ],
+   "designers": [
+    "李喜泰"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1967,
+   "ward": "麻浦区",
+   "address": "서울 마포구 토정로 6",
+   "lat": 37.5446,
+   "lng": 126.9116,
+   "approx": true,
+   "summary": "漢江を見下ろす崖の上の殉教記念聖堂。伝統的な笠の形を思わせる屋根をもつ。",
+   "highlights": [
+    "崖上の聖堂と漢江の眺め"
+   ],
+   "visit": "参拝自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-071",
+   "name": "KT&G 想像マダン 弘大",
+   "nameKo": "KT&G 상상마당 홍대",
+   "category": "architecture",
+   "tags": [
+    "アートスペース"
+   ],
+   "designers": [
+    "裵大容"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2007,
+   "ward": "麻浦区",
+   "address": "서울 마포구 어울마당로 65",
+   "lat": 37.5509,
+   "lng": 126.9214,
+   "approx": true,
+   "summary": "弘大のアートスペース。コンクリートの外壁に有機的な形の開口が走る。ギャラリー、ライブホール、ショップが入る。",
+   "highlights": [
+    "有機的な開口の外壁"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-072",
+   "name": "文化備蓄基地",
+   "nameKo": "문화비축기지",
+   "category": "architecture",
+   "tags": [
+    "リノベーション",
+    "産業遺産"
+   ],
+   "designers": [
+    "許書九（RoA建築）"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2017,
+   "ward": "麻浦区",
+   "address": "서울 마포구 증산로 87",
+   "lat": 37.5715,
+   "lng": 126.8945,
+   "approx": true,
+   "summary": "石油備蓄タンクを文化施設に再生した公園。解体したタンクの鋼板で新しい棟をつくった。",
+   "highlights": [
+    "旧石油タンクの内部",
+    "タンクの鋼板の外装"
+   ],
+   "visit": "入場無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-073",
+   "name": "西大門刑務所歴史館",
+   "nameKo": "서대문형무소역사관",
+   "category": "architecture",
+   "tags": [
+    "史跡",
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1908,
+   "ward": "西大門区",
+   "address": "서울 서대문구 통일로 251",
+   "lat": 37.5744,
+   "lng": 126.956,
+   "approx": true,
+   "summary": "日本統治期に建てられた刑務所の獄舎を公開する歴史館。",
+   "highlights": [
+    "放射状の獄舎"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-074",
+   "name": "独立門",
+   "nameKo": "독립문",
+   "category": "architecture",
+   "tags": [
+    "門",
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1897,
+   "ward": "西大門区",
+   "address": "서울 서대문구 통일로 247",
+   "lat": 37.5723,
+   "lng": 126.9599,
+   "approx": true,
+   "summary": "パリの凱旋門を手本に建てられた石造の門。",
+   "highlights": [
+    "石造のアーチ"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-075",
+   "name": "梨花女子大学 ECC",
+   "nameKo": "이화여대 ECC",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "ドミニク・ペロー",
+    "大学"
+   ],
+   "designers": [
+    "ドミニク・ペロー"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2008,
+   "ward": "西大門区",
+   "address": "서울 서대문구 이화여대길 52",
+   "lat": 37.5619,
+   "lng": 126.9466,
+   "approx": true,
+   "summary": "キャンパスの谷を切り込んだ地下キャンパス。両側のガラスの壁の間を大階段が上っていく。",
+   "highlights": [
+    "谷を割る大階段"
+   ],
+   "visit": "キャンパス内（学生に配慮）",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-076",
+   "name": "延世大学 アンダーウッド館",
+   "nameKo": "연세대 언더우드관",
+   "category": "architecture",
+   "tags": [
+    "大学",
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1924,
+   "ward": "西大門区",
+   "address": "서울 서대문구 연세로 50",
+   "lat": 37.5651,
+   "lng": 126.9385,
+   "approx": true,
+   "summary": "ツタに覆われたゴシック様式の石造校舎。延世大学の象徴。",
+   "highlights": [
+    "ツタの石造校舎"
+   ],
+   "visit": "外観（キャンパス内）",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-077",
+   "name": "高麗大学 本館",
+   "nameKo": "고려대 본관",
+   "category": "architecture",
+   "tags": [
+    "大学",
+    "近代建築"
+   ],
+   "designers": [
+    "朴東鎮"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1934,
+   "ward": "城北区",
+   "address": "서울 성북구 안암로 145",
+   "lat": 37.5895,
+   "lng": 127.0325,
+   "approx": true,
+   "summary": "花崗岩のゴシック様式の本館。中央広場の芝生から全景を見られる。",
+   "highlights": [
+    "石造のゴシック校舎"
+   ],
+   "visit": "外観（キャンパス内）",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-078",
+   "name": "慶熙大学 本館",
+   "nameKo": "경희대 본관",
+   "category": "architecture",
+   "tags": [
+    "大学"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1956,
+   "ward": "東大門区",
+   "address": "서울 동대문구 경희대로 26",
+   "lat": 37.5964,
+   "lng": 127.0526,
+   "approx": true,
+   "summary": "列柱が並ぶ古典主義風の本館。春の桜の名所。",
+   "highlights": [
+    "列柱と桜"
+   ],
+   "visit": "外観（キャンパス内）",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-079",
+   "name": "吉祥寺",
+   "nameKo": "길상사",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "寺院"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1997,
+   "ward": "城北区",
+   "address": "서울 성북구 선잠로5길 68",
+   "lat": 37.6,
+   "lng": 126.995,
+   "approx": true,
+   "summary": "高級料亭「大苑閣」を寄進して開かれた寺。城北洞の静かな森の中にある。",
+   "highlights": [
+    "森の中の堂宇",
+    "秋のヒガンバナ"
+   ],
+   "visit": "参拝自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-080",
+   "name": "尋牛荘",
+   "nameKo": "심우장",
+   "category": "architecture",
+   "tags": [
+    "韓屋",
+    "史跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1933,
+   "ward": "城北区",
+   "address": "서울 성북구 성북로29길 24",
+   "lat": 37.5937,
+   "lng": 127.0005,
+   "approx": true,
+   "summary": "詩人・僧侶の韓龍雲が晩年を過ごした家。北向きに建てられたことで知られる。",
+   "highlights": [
+    "北向きの韓屋"
+   ],
+   "visit": "入場無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-081",
+   "name": "崔淳雨旧宅",
+   "nameKo": "최순우 옛집",
+   "category": "architecture",
+   "tags": [
+    "韓屋"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1930,
+   "ward": "城北区",
+   "address": "서울 성북구 성북로15길 9",
+   "lat": 37.5933,
+   "lng": 126.995,
+   "approx": true,
+   "summary": "美術史家崔淳雨が暮らした近代韓屋。中庭の小さな庭が美しい。",
+   "highlights": [
+    "ㄱ字形の韓屋と中庭"
+   ],
+   "visit": "入場無料（季節限定）",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-082",
+   "name": "澗松美術館",
+   "nameKo": "간송미술관",
+   "category": "architecture",
+   "tags": [
+    "美術館",
+    "近代建築"
+   ],
+   "designers": [
+    "朴吉龍"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1938,
+   "ward": "城北区",
+   "address": "서울 성북구 성북로 102-11",
+   "lat": 37.5938,
+   "lng": 126.997,
+   "approx": true,
+   "summary": "韓国最初の私立美術館「葆華閣」。文化財の収集家全鎣弼の旧蔵品を展示する。",
+   "highlights": [
+    "葆華閣の洋館"
+   ],
+   "visit": "展示期間のみ",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-083",
+   "name": "韓国家具博物館",
+   "nameKo": "한국가구박물관",
+   "category": "architecture",
+   "tags": [
+    "韓屋",
+    "家具"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2006,
+   "ward": "城北区",
+   "address": "서울 성북구 대사관로 121",
+   "lat": 37.591,
+   "lng": 126.993,
+   "approx": true,
+   "summary": "移築した韓屋群に伝統家具を展示する博物館。見学は予約制のガイドツアー。",
+   "highlights": [
+    "移築された韓屋群"
+   ],
+   "visit": "予約制ツアー",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-084",
+   "name": "芸術の殿堂",
+   "nameKo": "예술의전당",
+   "category": "architecture",
+   "tags": [
+    "劇場",
+    "金錫澈"
+   ],
+   "designers": [
+    "金錫澈"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1988,
+   "ward": "瑞草区",
+   "address": "서울 서초구 남부순환로 2406",
+   "lat": 37.4786,
+   "lng": 127.0117,
+   "approx": true,
+   "summary": "オペラハウスや美術館、書芸博物館が集まる総合芸術施設。オペラハウスは笠をかたどった屋根。",
+   "highlights": [
+    "笠形の屋根のオペラハウス",
+    "ハンガラム美術館"
+   ],
+   "visit": "館内一部自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-085",
+   "name": "セビッソム",
+   "nameKo": "세빛섬",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "夜景",
+    "水上建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "瑞草区",
+   "address": "서울 서초구 올림픽대로 2085-14",
+   "lat": 37.5115,
+   "lng": 126.9946,
+   "approx": true,
+   "summary": "漢江に浮かぶ3つの人工島の建物。夜はLEDで光り、盤浦大橋の噴水と合わせて夜景の名所。",
+   "highlights": [
+    "夜のLED照明"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-086",
+   "name": "ロッテワールドタワー（ソウルスカイ）",
+   "nameKo": "롯데월드타워",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "超高層",
+    "展望"
+   ],
+   "designers": [
+    "KPF"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2017,
+   "ward": "松坡区",
+   "address": "서울 송파구 올림픽로 300",
+   "lat": 37.5126,
+   "lng": 127.1025,
+   "approx": true,
+   "summary": "高さ555mの韓国一高いビル。筆や陶磁器をモチーフにした先細りの形。117〜123階に展望台ソウルスカイがある。",
+   "highlights": [
+    "ソウルスカイ",
+    "ガラスの床"
+   ],
+   "visit": "展望台は有料",
+   "closedDays": [],
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-087",
+   "name": "漢城百済博物館",
+   "nameKo": "한성백제박물관",
+   "category": "architecture",
+   "tags": [
+    "博物館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2012,
+   "ward": "松坡区",
+   "address": "서울 송파구 위례성대로 71",
+   "lat": 37.5179,
+   "lng": 127.1185,
+   "approx": true,
+   "summary": "ソウルが百済の都だった時代の歴史を紹介する博物館。オリンピック公園の隣。",
+   "highlights": [
+    "百済の土城の断面展示"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-088",
+   "name": "SOMA美術館",
+   "nameKo": "소마미술관",
+   "category": "architecture",
+   "tags": [
+    "美術館",
+    "彫刻"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2004,
+   "ward": "松坡区",
+   "address": "서울 송파구 위례성대로 51",
+   "lat": 37.5172,
+   "lng": 127.1145,
+   "approx": true,
+   "summary": "オリンピック公園内の美術館。公園に点在する彫刻作品も管理している。",
+   "highlights": [
+    "彫刻公園"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-089",
+   "name": "奉恩寺",
+   "nameKo": "봉은사",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "寺院"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 794,
+   "ward": "江南区",
+   "address": "서울 강남구 봉은사로 531",
+   "lat": 37.515,
+   "lng": 127.0577,
+   "approx": true,
+   "summary": "COEXの向かいにある古刹。高層ビルを背景に寺院の伽藍と巨大な弥勒大仏が並ぶ。",
+   "highlights": [
+    "弥勒大仏",
+    "テンプルステイ"
+   ],
+   "visit": "参拝自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-090",
+   "name": "宣靖陵",
+   "nameKo": "선릉과 정릉",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "世界遺産",
+    "王陵"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1495,
+   "ward": "江南区",
+   "address": "서울 강남구 선릉로100길 1",
+   "lat": 37.5085,
+   "lng": 127.0488,
+   "approx": true,
+   "summary": "朝鮮王朝の王陵で世界遺産。江南のビル街の中に松林が広がる。",
+   "highlights": [
+    "王陵の松林"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-091",
+   "name": "教保タワー",
+   "nameKo": "교보타워",
+   "category": "architecture",
+   "tags": [
+    "マリオ・ボッタ"
+   ],
+   "designers": [
+    "マリオ・ボッタ"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2003,
+   "ward": "江南区",
+   "address": "서울 강남구 강남대로 465",
+   "lat": 37.5035,
+   "lng": 127.0245,
+   "approx": true,
+   "summary": "江南駅近くの2棟のツインタワー。赤レンガの壁とガラスの帯でつながれている。",
+   "highlights": [
+    "赤レンガの双塔"
+   ],
+   "visit": "外観のみ",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-092",
+   "name": "ブティック・モナコ",
+   "nameKo": "부띠크 모나코",
+   "category": "architecture",
+   "tags": [
+    "MASS STUDIES"
+   ],
+   "designers": [
+    "MASS STUDIES（チョ・ミンソク）"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2008,
+   "ward": "江南区",
+   "address": "서울 강남구 강남대로 330",
+   "lat": 37.4964,
+   "lng": 127.0285,
+   "approx": true,
+   "summary": "住戸の一部を抜き取ったような空中庭園が外観に散らばる複合ビル。",
+   "highlights": [
+    "抜き取られた空中庭園"
+   ],
+   "visit": "外観のみ",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-093",
+   "name": "ソンウン アートスペース",
+   "nameKo": "송은",
+   "category": "architecture",
+   "tags": [
+    "ヘルツォーク&ド・ムーロン",
+    "現代美術"
+   ],
+   "designers": [
+    "ヘルツォーク&ド・ムーロン"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2021,
+   "ward": "江南区",
+   "address": "서울 강남구 도산대로 441",
+   "lat": 37.524,
+   "lng": 127.043,
+   "approx": true,
+   "summary": "三角形の頂部をもつ打放しコンクリートのアートスペース。現代美術の展示が無料で見られる。",
+   "highlights": [
+    "三角の頂部",
+    "木目のコンクリート"
+   ],
+   "visit": "入館無料",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-094",
+   "name": "国会議事堂",
+   "nameKo": "국회의사당",
+   "category": "architecture",
+   "tags": [
+    "議事堂"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1975,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 의사당대로 1",
+   "lat": 37.5318,
+   "lng": 126.914,
+   "approx": true,
+   "summary": "汝矣島に建つ、ドームを24本の柱が囲む議事堂。",
+   "highlights": [
+    "ドームと列柱"
+   ],
+   "visit": "外観・見学予約",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-095",
+   "name": "63スクエア",
+   "nameKo": "63스퀘어",
+   "category": "architecture",
+   "tags": [
+    "超高層"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1985,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 63로 50",
+   "lat": 37.5199,
+   "lng": 126.9403,
+   "approx": true,
+   "summary": "汝矣島に建つ金色のガラスの超高層ビル。漢江の眺めが楽しめる。",
+   "highlights": [
+    "金色のガラス"
+   ],
+   "visit": "館内一部自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-096",
+   "name": "パーク・ワン（Parc.1）",
+   "nameKo": "파크원",
+   "category": "architecture",
+   "tags": [
+    "リチャード・ロジャース",
+    "超高層"
+   ],
+   "designers": [
+    "リチャード・ロジャース"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2020,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 여의대로 108",
+   "lat": 37.5265,
+   "lng": 126.9285,
+   "approx": true,
+   "summary": "赤い構造フレームを外に見せた汝矣島の超高層ツインタワー。低層部に百貨店「ザ・現代ソウル」が入る。",
+   "highlights": [
+    "赤い外部フレーム"
+   ],
+   "visit": "外観・商業部",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-097",
+   "name": "LGアートセンター ソウル",
+   "nameKo": "LG아트센터 서울",
+   "category": "architecture",
+   "tags": [
+    "安藤忠雄",
+    "劇場"
+   ],
+   "designers": [
+    "安藤忠雄"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2022,
+   "ward": "江西区",
+   "address": "서울 강서구 마곡중앙로 136",
+   "lat": 37.564,
+   "lng": 126.832,
+   "approx": true,
+   "summary": "マゴク地区の劇場。チューブ状の通路が建物を貫き、ソウル植物園へ続く。",
+   "highlights": [
+    "チューブ状の通路"
+   ],
+   "visit": "館内一部自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-098",
+   "name": "高尺スカイドーム",
+   "nameKo": "고척스카이돔",
+   "category": "architecture",
+   "tags": [
+    "スタジアム"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2015,
+   "ward": "九老区",
+   "address": "서울 구로구 경인로 430",
+   "lat": 37.4982,
+   "lng": 126.8671,
+   "approx": true,
+   "summary": "韓国初のドーム球場。",
+   "highlights": [
+    "ドーム屋根"
+   ],
+   "visit": "試合時",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-099",
+   "name": "ソウル大学美術館（MoA）",
+   "nameKo": "서울대학교미술관",
+   "category": "architecture",
+   "tags": [
+    "OMA",
+    "大学"
+   ],
+   "designers": [
+    "レム・コールハース（OMA）"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2005,
+   "ward": "冠岳区",
+   "address": "서울 관악구 관악로 1",
+   "lat": 37.4612,
+   "lng": 126.9477,
+   "approx": true,
+   "summary": "斜面に浮かぶように張り出した大学美術館。一点で支えられたように見える量塊。",
+   "highlights": [
+    "斜面に張り出した量塊"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-100",
+   "name": "ソウル市立南ソウル美術館（旧ベルギー領事館）",
+   "nameKo": "남서울미술관",
+   "category": "architecture",
+   "tags": [
+    "近代建築",
+    "美術館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1905,
+   "ward": "冠岳区",
+   "address": "서울 관악구 남부순환로 2076",
+   "lat": 37.476,
+   "lng": 126.9813,
+   "approx": true,
+   "summary": "会賢洞から移築された旧ベルギー領事館の洋館を使った美術館。",
+   "highlights": [
+    "赤レンガの洋館"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-101",
+   "name": "ソウル市立北ソウル美術館",
+   "nameKo": "북서울미술관",
+   "category": "architecture",
+   "tags": [
+    "美術館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2013,
+   "ward": "蘆原区",
+   "address": "서울 노원구 동일로 1238",
+   "lat": 37.6402,
+   "lng": 127.0662,
+   "approx": true,
+   "summary": "公園と一体になった北部の市立美術館。子ども向けの展示もある。",
+   "highlights": [
+    "公園と一体の外観"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-102",
+   "name": "ソウル市立写真美術館",
+   "nameKo": "서울시립 사진미술관",
+   "category": "architecture",
+   "tags": [
+    "写真",
+    "美術館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2025,
+   "ward": "道峰区",
+   "address": "서울 도봉구 마들로13길 68",
+   "lat": 37.653,
+   "lng": 127.049,
+   "approx": true,
+   "summary": "韓国初の公立写真専門美術館。2025年5月29日に開館した。",
+   "highlights": [
+    "写真の企画展"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-103",
+   "name": "恩平韓屋村",
+   "nameKo": "은평한옥마을",
+   "category": "architecture",
+   "tags": [
+    "韓屋",
+    "街並み"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "恩平区",
+   "address": "서울 은평구 진관동",
+   "lat": 37.637,
+   "lng": 126.918,
+   "approx": true,
+   "summary": "北漢山のふもとに新しく造られた韓屋の住宅地。カフェや博物館がある。",
+   "highlights": [
+    "北漢山を背景にした韓屋"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-104",
+   "name": "津寛寺",
+   "nameKo": "진관사",
+   "category": "architecture",
+   "tags": [
+    "寺院",
+    "精進料理"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1011,
+   "ward": "恩平区",
+   "address": "서울 은평구 진관길 73",
+   "lat": 37.6395,
+   "lng": 126.944,
+   "approx": true,
+   "summary": "北漢山のふもとの古刹。寺院料理（精進料理）で知られる。",
+   "highlights": [
+    "渓谷沿いの伽藍"
+   ],
+   "visit": "参拝自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-105",
+   "name": "岩寺洞先史遺跡",
+   "nameKo": "암사동 선사유적지",
+   "category": "architecture",
+   "tags": [
+    "遺跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1925,
+   "ward": "江東区",
+   "address": "서울 강동구 올림픽로 875",
+   "lat": 37.56,
+   "lng": 127.13,
+   "approx": true,
+   "summary": "新石器時代の集落遺跡。竪穴住居が復元されている。",
+   "highlights": [
+    "復元された竪穴住居"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-106",
+   "name": "文来創作村",
+   "nameKo": "문래창작촌",
+   "category": "architecture",
+   "tags": [
+    "街歩き",
+    "町工場"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2000,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 문래동",
+   "lat": 37.515,
+   "lng": 126.893,
+   "approx": true,
+   "summary": "鉄工所が並ぶ町工場街に芸術家のアトリエやカフェが入り込んだ地区。",
+   "highlights": [
+    "鉄工所とアトリエの路地"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-107",
+   "name": "オニオン 聖水",
+   "nameKo": "어니언 성수",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "リノベーション",
+    "ベーカリー"
+   ],
+   "designers": [
+    "パッチワークス"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2016,
+   "ward": "城東区",
+   "address": "서울 성동구 아차산로9길 8",
+   "lat": 37.5448,
+   "lng": 127.0581,
+   "approx": true,
+   "summary": "古い工場をむき出しの躯体のまま改装したベーカリーカフェ。聖水洞のカフェ人気の先駆け。",
+   "highlights": [
+    "むき出しの躯体",
+    "パンドーロ"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-108",
+   "name": "オニオン 安国",
+   "nameKo": "어니언 안국",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓屋",
+    "ベーカリー"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2021,
+   "ward": "鍾路区",
+   "address": "서울 종로구 계동길 5",
+   "lat": 37.5772,
+   "lng": 126.9877,
+   "approx": true,
+   "summary": "韓屋を改装したベーカリーカフェ。瓦屋根の中庭を囲む席でパンを食べられる。",
+   "highlights": [
+    "韓屋の中庭"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-109",
+   "name": "大林倉庫",
+   "nameKo": "대림창고",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "倉庫改修",
+    "聖水洞"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2011,
+   "ward": "城東区",
+   "address": "서울 성동구 성수이로 78",
+   "lat": 37.5419,
+   "lng": 127.0566,
+   "approx": true,
+   "summary": "精米所の倉庫を改装した聖水洞の象徴的な建物。ギャラリーカフェとして知られ、現在はブランドの店舗や催しの会場として使われる。",
+   "highlights": [
+    "倉庫の大空間"
+   ],
+   "visit": "用途は時期により異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-110",
+   "name": "ブルーボトルコーヒー 聖水フラッグシップカフェ",
+   "nameKo": "블루보틀 성수",
+   "category": "cafe",
+   "tags": [
+    "コーヒー",
+    "焙煎所"
+   ],
+   "designers": [
+    "スキーマ建築計画"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2019,
+   "ward": "城東区",
+   "address": "서울 성동구 아차산로 7",
+   "lat": 37.548,
+   "lng": 127.0453,
+   "approx": true,
+   "summary": "ブルーボトルの韓国1号店。レンガの建物の地下に焙煎室とカフェがある。",
+   "highlights": [
+    "地下の焙煎室"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-111",
+   "name": "ブルーボトルコーヒー 三清カフェ",
+   "nameKo": "블루보틀 삼청",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "コーヒー",
+    "眺望"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2019,
+   "ward": "鍾路区",
+   "address": "서울 종로구 북촌로5길 76",
+   "lat": 37.5826,
+   "lng": 126.981,
+   "approx": true,
+   "summary": "三清洞の高台にある店舗。窓から景福宮方面の瓦屋根を見下ろせる。",
+   "highlights": [
+    "窓から見る北村の瓦屋根"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-112",
+   "name": "Fritz Coffee Company 桃花店",
+   "nameKo": "프릳츠 도화점",
+   "category": "cafe",
+   "tags": [
+    "焙煎所",
+    "ベーカリー"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "麻浦区",
+   "address": "서울 마포구 새창로2길 17",
+   "lat": 37.5392,
+   "lng": 126.9493,
+   "approx": true,
+   "summary": "古い住宅を改装したロースタリーカフェ。オットセイのロゴとレトロなパッケージで人気。",
+   "highlights": [
+    "自家焙煎",
+    "パン"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-113",
+   "name": "Anthracite Coffee 合井店",
+   "nameKo": "앤트러사이트 합정",
+   "category": "cafe",
+   "tags": [
+    "焙煎所",
+    "工場改修"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "麻浦区",
+   "address": "서울 마포구 토정로5길 10",
+   "lat": 37.5486,
+   "lng": 126.9132,
+   "approx": true,
+   "summary": "靴工場の建物を改装したロースタリーカフェ。工場の機械が残る広い空間。",
+   "highlights": [
+    "靴工場の空間"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-114",
+   "name": "学林茶房",
+   "nameKo": "학림다방",
+   "category": "cafe",
+   "tags": [
+    "喫茶",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1956,
+   "ward": "鍾路区",
+   "address": "서울 종로구 대학로 119 2층",
+   "lat": 37.5822,
+   "lng": 127.002,
+   "approx": true,
+   "summary": "大学路で1956年から続く喫茶店。木の内装とクラシック音楽、名物のウィンナーコーヒー。",
+   "highlights": [
+    "ウィンナーコーヒー"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-115",
+   "name": "スターバックス 京東1960",
+   "nameKo": "스타벅스 경동1960",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "リノベーション",
+    "映画館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2022,
+   "ward": "東大門区",
+   "address": "서울 동대문구 고산자로36길 3 경동시장 신관 3층",
+   "lat": 37.58,
+   "lng": 127.039,
+   "approx": true,
+   "summary": "京東市場の古い映画館を改装した店舗。劇場の客席のような階段席が残る。",
+   "highlights": [
+    "劇場の階段席"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-116",
+   "name": "London Bagel Museum 安国",
+   "nameKo": "런던베이글뮤지엄 안국",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "ベーグル",
+    "行列店"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2021,
+   "ward": "鍾路区",
+   "address": "서울 종로구 북촌로4길 20",
+   "lat": 37.5786,
+   "lng": 126.9863,
+   "approx": true,
+   "summary": "行列が絶えないベーグル店。ロンドンの古い店を思わせる内装。",
+   "highlights": [
+    "ポテトチーズベーグル"
+   ],
+   "visit": "店内利用可（行列あり）",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-117",
+   "name": "茶を飲む庭",
+   "nameKo": "차마시는뜰",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "伝統茶",
+    "韓屋"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1990,
+   "ward": "鍾路区",
+   "address": "서울 종로구 북촌로11나길 26",
+   "lat": 37.5815,
+   "lng": 126.9851,
+   "approx": true,
+   "summary": "北村の韓屋の伝統茶院。庭を眺めながら韓方茶や伝統菓子をいただける。",
+   "highlights": [
+    "韓屋の庭",
+    "五味子茶"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-118",
+   "name": "寿硯山房",
+   "nameKo": "수연산방",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "伝統茶",
+    "韓屋"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1933,
+   "ward": "城北区",
+   "address": "서울 성북구 성북로26길 8",
+   "lat": 37.5925,
+   "lng": 127.0003,
+   "approx": true,
+   "summary": "作家李泰俊の旧宅の韓屋を伝統茶院にした店。縁側から庭を眺められる。",
+   "highlights": [
+    "作家の旧宅",
+    "かぼちゃのぜんざい"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-119",
+   "name": "ナムサイロ",
+   "nameKo": "나무사이로",
+   "category": "cafe",
+   "tags": [
+    "コーヒー",
+    "韓屋"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2002,
+   "ward": "鍾路区",
+   "address": "서울 종로구 사직로8길 21",
+   "lat": 37.5765,
+   "lng": 126.971,
+   "approx": true,
+   "summary": "西村の韓屋を使ったスペシャルティコーヒー店。",
+   "highlights": [
+    "韓屋の店内",
+    "ハンドドリップ"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-120",
+   "name": "土俗村参鶏湯",
+   "nameKo": "토속촌 삼계탕",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓国料理",
+    "参鶏湯"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1983,
+   "ward": "鍾路区",
+   "address": "서울 종로구 자하문로5길 5",
+   "lat": 37.5779,
+   "lng": 126.9714,
+   "approx": true,
+   "summary": "景福宮近くの韓屋の参鶏湯店。観光客にも地元の人にも人気で、行列ができる。",
+   "highlights": [
+    "参鶏湯"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-121",
+   "name": "明洞餃子 本店",
+   "nameKo": "명동교자 본점",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓国料理",
+    "麺"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1966,
+   "ward": "中区",
+   "address": "서울 중구 명동10길 29",
+   "lat": 37.5625,
+   "lng": 126.9856,
+   "approx": true,
+   "summary": "明洞のカルグクス（韓国式うどん）店。濃厚なスープと餃子が名物。",
+   "highlights": [
+    "カルグクス",
+    "マンドゥ"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-122",
+   "name": "陳玉華ハルメ元祖タッカンマリ",
+   "nameKo": "진옥화할매원조닭한마리",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓国料理",
+    "鍋"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1978,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로40가길 18",
+   "lat": 37.5703,
+   "lng": 127.0049,
+   "approx": true,
+   "summary": "東大門のタッカンマリ（鶏一羽鍋）通りの元祖とされる店。",
+   "highlights": [
+    "タッカンマリ"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-123",
+   "name": "又来屋",
+   "nameKo": "우래옥",
+   "category": "cafe",
+   "tags": [
+    "冷麺",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1946,
+   "ward": "中区",
+   "address": "서울 중구 창경궁로 62-29",
+   "lat": 37.5682,
+   "lng": 126.9984,
+   "approx": true,
+   "summary": "1946年創業の平壌冷麺の老舗。",
+   "highlights": [
+    "平壌冷麺",
+    "プルコギ"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-124",
+   "name": "乙密台",
+   "nameKo": "을밀대",
+   "category": "cafe",
+   "tags": [
+    "冷麺",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1971,
+   "ward": "麻浦区",
+   "address": "서울 마포구 숭문길 24",
+   "lat": 37.5476,
+   "lng": 126.9531,
+   "approx": true,
+   "summary": "麻浦の平壌冷麺の名店。",
+   "highlights": [
+    "平壌冷麺"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-125",
+   "name": "筆洞麺屋",
+   "nameKo": "필동면옥",
+   "category": "cafe",
+   "tags": [
+    "冷麺"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1985,
+   "ward": "中区",
+   "address": "서울 중구 서애로 26",
+   "lat": 37.5609,
+   "lng": 126.9955,
+   "approx": true,
+   "summary": "忠武路の平壌冷麺の名店。",
+   "highlights": [
+    "平壌冷麺",
+    "水餃子"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-126",
+   "name": "河東館 明洞本店",
+   "nameKo": "하동관 명동본점",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓国料理",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1939,
+   "ward": "中区",
+   "address": "서울 중구 명동9길 12",
+   "lat": 37.564,
+   "lng": 126.984,
+   "approx": true,
+   "summary": "1939年創業のコムタン専門店。真鍮の器で出される澄んだスープ。",
+   "highlights": [
+    "コムタン"
+   ],
+   "visit": "店内利用可（昼のみ営業）",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-127",
+   "name": "黄生家カルグクス",
+   "nameKo": "황생가칼국수",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓国料理",
+    "麺"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2001,
+   "ward": "鍾路区",
+   "address": "서울 종로구 북촌로5길 78",
+   "lat": 37.581,
+   "lng": 126.9822,
+   "approx": true,
+   "summary": "北村のカルグクスとマンドゥの人気店。",
+   "highlights": [
+    "牛骨スープのカルグクス"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-128",
+   "name": "広蔵市場 屋台街",
+   "nameKo": "광장시장 먹자골목",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "市場",
+    "屋台"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1905,
+   "ward": "鍾路区",
+   "address": "서울 종로구 창경궁로 88",
+   "lat": 37.5701,
+   "lng": 126.9996,
+   "approx": true,
+   "summary": "広蔵市場の中央にある屋台街。ピンデトク（緑豆チヂミ）やユッケ、麻薬キンパが名物。",
+   "highlights": [
+    "ピンデトク",
+    "ユッケ"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-129",
+   "name": "益善洞 カフェ通り",
+   "nameKo": "익선동 카페거리",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓屋",
+    "カフェ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2015,
+   "ward": "鍾路区",
+   "address": "서울 종로구 수표로28길",
+   "lat": 37.5745,
+   "lng": 126.9893,
+   "approx": true,
+   "summary": "韓屋を改装したカフェやレストランが集まる路地。",
+   "highlights": [
+    "韓屋カフェ"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-130",
+   "name": "延南洞 カフェ通り",
+   "nameKo": "연남동 카페거리",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "カフェ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2015,
+   "ward": "麻浦区",
+   "address": "서울 마포구 동교로",
+   "lat": 37.562,
+   "lng": 126.924,
+   "approx": true,
+   "summary": "京義線森の道沿いに小さなカフェや食堂が並ぶ。",
+   "highlights": [
+    "森の道沿いのカフェ"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-131",
+   "name": "聖水洞 カフェ通り",
+   "nameKo": "성수동 카페거리",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "リノベーション"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2015,
+   "ward": "城東区",
+   "address": "서울 성동구 연무장길",
+   "lat": 37.543,
+   "lng": 127.056,
+   "approx": true,
+   "summary": "町工場や倉庫を改装したカフェやショップが並ぶ「ソウルのブルックリン」。",
+   "highlights": [
+    "倉庫カフェ",
+    "ポップアップストア"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-132",
+   "name": "乙支路 ヒップジロ",
+   "nameKo": "힙지로",
+   "category": "cafe",
+   "tags": [
+    "街歩き",
+    "レトロ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2017,
+   "ward": "中区",
+   "address": "서울 중구 을지로3가",
+   "lat": 37.5663,
+   "lng": 126.9918,
+   "approx": true,
+   "summary": "印刷所や工具店の上の階に隠れ家的なカフェやバーが入る地区。",
+   "highlights": [
+    "看板のない入口"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-133",
+   "name": "乙支路 ノガリ横丁",
+   "nameKo": "을지로 노가리골목",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "横丁",
+    "ビール"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1980,
+   "ward": "中区",
+   "address": "서울 중구 을지로13길",
+   "lat": 37.5662,
+   "lng": 126.9916,
+   "approx": true,
+   "summary": "干しスケトウダラ（ノガリ）とビールを路上で楽しむ飲み屋街。",
+   "highlights": [
+    "路上のビールテーブル"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-134",
+   "name": "鍾路 ピマッコル",
+   "nameKo": "피맛골",
+   "category": "cafe",
+   "tags": [
+    "路地",
+    "歴史"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1600,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로",
+   "lat": 37.571,
+   "lng": 126.981,
+   "approx": true,
+   "summary": "鍾路の大通りの裏手に続く路地。庶民の食堂街として知られた。",
+   "highlights": [
+    "路地の食堂"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-135",
+   "name": "通仁市場 お弁当カフェ",
+   "nameKo": "통인시장 도시락카페",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "市場",
+    "食べ歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2012,
+   "ward": "鍾路区",
+   "address": "서울 종로구 자하문로15길 18",
+   "lat": 37.5809,
+   "lng": 126.97,
+   "approx": true,
+   "summary": "古銭を買って市場の惣菜を少しずつ弁当箱に詰められる。キルムトッポッキが名物。",
+   "highlights": [
+    "古銭の弁当",
+    "キルムトッポッキ"
+   ],
+   "visit": "営業時間内",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-136",
+   "name": "マンウォン市場 食べ歩き",
+   "nameKo": "망원시장",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "市場",
+    "食べ歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1970,
+   "ward": "麻浦区",
+   "address": "서울 마포구 포은로8길 14",
+   "lat": 37.5562,
+   "lng": 126.906,
+   "approx": true,
+   "summary": "地元の人で賑わう市場。コロッケやトッポッキの食べ歩きが楽しい。",
+   "highlights": [
+    "コロッケ",
+    "トッポッキ"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-137",
+   "name": "ノリャンジン水産市場 食堂",
+   "nameKo": "노량진수산시장",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "市場",
+    "海鮮"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1927,
+   "ward": "銅雀区",
+   "address": "서울 동작구 노들로 674",
+   "lat": 37.5136,
+   "lng": 126.9405,
+   "approx": true,
+   "summary": "ソウル最大の水産市場。市場で選んだ魚を2階の食堂でさばいてもらえる。",
+   "highlights": [
+    "活魚の刺身"
+   ],
+   "visit": "営業時間内",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-138",
+   "name": "Coffee Libre 延南",
+   "nameKo": "커피리브레 연남",
+   "category": "cafe",
+   "tags": [
+    "焙煎所",
+    "スペシャルティ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "麻浦区",
+   "address": "서울 마포구 성미산로 198",
+   "lat": 37.5652,
+   "lng": 126.9228,
+   "approx": true,
+   "summary": "韓国のスペシャルティコーヒーを牽引してきたロースターの本店。小さなスタンド形式。",
+   "highlights": [
+    "浅煎りのエスプレッソ"
+   ],
+   "visit": "店内・テイクアウト",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-139",
+   "name": "三清洞スジェビ",
+   "nameKo": "삼청동수제비",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓国料理"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1982,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼청로 101-1",
+   "lat": 37.5845,
+   "lng": 126.982,
+   "approx": true,
+   "summary": "三清洞のすいとん（スジェビ）の人気店。",
+   "highlights": [
+    "スジェビ",
+    "じゃがいもチヂミ"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-140",
+   "name": "清水堂",
+   "nameKo": "청수당",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "庭園カフェ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2020,
+   "ward": "鍾路区",
+   "address": "서울 종로구 돈화문로11나길 31-9",
+   "lat": 37.5745,
+   "lng": 126.9897,
+   "approx": true,
+   "summary": "竹林と水盤のある庭を抜けて入る益善洞のカフェ。",
+   "highlights": [
+    "竹林と水盤の庭"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-141",
+   "name": "晋州会館",
+   "nameKo": "진주회관",
+   "category": "cafe",
+   "tags": [
+    "麺",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1962,
+   "ward": "中区",
+   "address": "서울 중구 세종대로11길 26",
+   "lat": 37.5658,
+   "lng": 126.9771,
+   "approx": true,
+   "summary": "ソウル市庁近くの豆乳麺（コングクス）の老舗。夏は行列ができる。",
+   "highlights": [
+    "コングクス"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-142",
+   "name": "里門ソルロンタン",
+   "nameKo": "이문설농탕",
+   "category": "cafe",
+   "tags": [
+    "韓国料理",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1904,
+   "ward": "鍾路区",
+   "address": "서울 종로구 우정국로 38-13",
+   "lat": 37.5718,
+   "lng": 126.9842,
+   "approx": true,
+   "summary": "1904年創業とされるソルロンタン（牛骨スープ）の老舗。",
+   "highlights": [
+    "ソルロンタン"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-143",
+   "name": "五壮洞咸興冷麺",
+   "nameKo": "오장동함흥냉면",
+   "category": "cafe",
+   "tags": [
+    "冷麺",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1953,
+   "ward": "中区",
+   "address": "서울 중구 마른내로 108",
+   "lat": 37.5657,
+   "lng": 126.9974,
+   "approx": true,
+   "summary": "咸興式の冷麺（ビビン冷麺）の老舗。",
+   "highlights": [
+    "フェネンミョン"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-144",
+   "name": "新堂洞トッポッキ通り",
+   "nameKo": "신당동 떡볶이골목",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "食べ歩き",
+    "通り"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1953,
+   "ward": "中区",
+   "address": "서울 중구 다산로33길",
+   "lat": 37.5644,
+   "lng": 127.0153,
+   "approx": true,
+   "summary": "鍋で煮込む即席トッポッキの店が並ぶ通り。",
+   "highlights": [
+    "即席トッポッキ"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-145",
+   "name": "奨忠洞チョッパル通り",
+   "nameKo": "장충동 족발골목",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "韓国料理",
+    "通り"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1960,
+   "ward": "中区",
+   "address": "서울 중구 장충단로",
+   "lat": 37.5606,
+   "lng": 127.007,
+   "approx": true,
+   "summary": "豚足（チョッパル）の店が並ぶ通り。",
+   "highlights": [
+    "チョッパル"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-146",
+   "name": "楽園トク屋",
+   "nameKo": "낙원떡집",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "伝統菓子",
+    "老舗"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1919,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼일대로 428",
+   "lat": 37.5733,
+   "lng": 126.9876,
+   "approx": true,
+   "summary": "1919年創業の餅屋。色とりどりの韓国の伝統餅が並ぶ。",
+   "highlights": [
+    "伝統の餅"
+   ],
+   "visit": "持ち帰り",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-147",
+   "name": "国立現代美術館 徳寿宮館",
+   "nameKo": "국립현대미술관 덕수궁",
+   "category": "architecture",
+   "tags": [
+    "美術館",
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1938,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 99",
+   "lat": 37.5653,
+   "lng": 126.9748,
+   "approx": true,
+   "summary": "徳寿宮の中に建つ石造の西洋館を使った美術館。韓国の近代美術を展示する。",
+   "highlights": [
+    "石造の列柱"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-148",
+   "name": "京橋荘",
+   "nameKo": "경교장",
+   "category": "architecture",
+   "tags": [
+    "史跡",
+    "洋館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1938,
+   "ward": "鍾路区",
+   "address": "서울 종로구 새문안로 29",
+   "lat": 37.5682,
+   "lng": 126.9663,
+   "approx": true,
+   "summary": "大韓民国臨時政府の主席金九が晩年を過ごした邸宅。病院の敷地内に復元公開されている。",
+   "highlights": [
+    "復元された邸宅"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-149",
+   "name": "東廟（東関王廟）",
+   "nameKo": "동묘",
+   "category": "architecture",
+   "tags": [
+    "史跡",
+    "廟"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1601,
+   "ward": "鍾路区",
+   "address": "서울 종로구 난계로27길 84",
+   "lat": 37.573,
+   "lng": 127.0165,
+   "approx": true,
+   "summary": "三国志の関羽を祀る廟。東廟蚤の市の中心にある。",
+   "highlights": [
+    "関羽の祠堂"
+   ],
+   "visit": "外観",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-150",
+   "name": "圜丘壇（皇穹宇）",
+   "nameKo": "환구단",
+   "category": "architecture",
+   "tags": [
+    "史跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1899,
+   "ward": "中区",
+   "address": "서울 중구 소공로 112",
+   "lat": 37.5651,
+   "lng": 126.98,
+   "approx": true,
+   "summary": "大韓帝国の皇帝が天に祭祀を行った祭壇の八角形の建物。ホテルの庭の脇に残る。",
+   "highlights": [
+    "八角形の三層の建物"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-151",
+   "name": "ソウル市議会（旧府民館）",
+   "nameKo": "서울시의회",
+   "category": "architecture",
+   "tags": [
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1935,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 125",
+   "lat": 37.568,
+   "lng": 126.9772,
+   "approx": true,
+   "summary": "昭和初期に府民館として建てられたホール建築。時計塔が目印。",
+   "highlights": [
+    "時計塔"
+   ],
+   "visit": "外観のみ",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-152",
+   "name": "天道教 中央大教堂",
+   "nameKo": "천도교 중앙대교당",
+   "category": "architecture",
+   "tags": [
+    "近代建築",
+    "宗教建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1921,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼일대로 457",
+   "lat": 37.5746,
+   "lng": 126.9851,
+   "approx": true,
+   "summary": "大正期に建てられたバロック風のレンガ造の宗教建築。",
+   "highlights": [
+    "赤レンガの尖塔"
+   ],
+   "visit": "外観",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-153",
+   "name": "ピクニック",
+   "nameKo": "피크닉",
+   "category": "architecture",
+   "tags": [
+    "リノベーション",
+    "ギャラリー"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2018,
+   "ward": "中区",
+   "address": "서울 중구 퇴계로6가길 30",
+   "lat": 37.5576,
+   "lng": 126.9784,
+   "approx": true,
+   "summary": "南山のふもとの古い製薬会社の建物を改修した展示・カフェの複合施設。屋上からソウル駅方面を眺められる。",
+   "highlights": [
+    "屋上",
+    "レトロなタイル"
+   ],
+   "visit": "入館可（展示は有料）",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-154",
+   "name": "楊花津外国人宣教師墓園",
+   "nameKo": "양화진외국인선교사묘원",
+   "category": "architecture",
+   "tags": [
+    "史跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1890,
+   "ward": "麻浦区",
+   "address": "서울 마포구 양화진길 46",
+   "lat": 37.545,
+   "lng": 126.91,
+   "approx": true,
+   "summary": "漢江を望む丘にある外国人宣教師の墓地。",
+   "highlights": [
+    "漢江を望む墓地"
+   ],
+   "visit": "入場無料",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-155",
+   "name": "彰義門",
+   "nameKo": "창의문",
+   "category": "architecture",
+   "tags": [
+    "門",
+    "城郭"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1741,
+   "ward": "鍾路区",
+   "address": "서울 종로구 창의문로 118",
+   "lat": 37.5927,
+   "lng": 126.9665,
+   "approx": true,
+   "summary": "ソウル城郭の北西の小門。北岳山の城郭路の入口。",
+   "highlights": [
+    "楼閣と城郭"
+   ],
+   "visit": "外観自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-156",
+   "name": "K-POPスクエア メディアウォール",
+   "nameKo": "케이팝스퀘어",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "メディアアート",
+    "夜景"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2020,
+   "ward": "江南区",
+   "address": "서울 강남구 영동대로 513",
+   "lat": 37.5113,
+   "lng": 127.0592,
+   "approx": true,
+   "summary": "COEX前の巨大LED広告壁。波が打ち寄せるような映像で話題になった。",
+   "highlights": [
+    "立体に見える映像"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-157",
+   "name": "石村洞古墳群",
+   "nameKo": "석촌동 고분군",
+   "category": "architecture",
+   "tags": [
+    "史跡",
+    "遺跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 300,
+   "ward": "松坡区",
+   "address": "서울 송파구 가락로7길 21",
+   "lat": 37.5025,
+   "lng": 127.077,
+   "approx": true,
+   "summary": "百済時代の積石塚が並ぶ史跡公園。",
+   "highlights": [
+    "積石塚"
+   ],
+   "visit": "入場無料",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-158",
+   "name": "弘済川 人工滝",
+   "nameKo": "홍제천 인공폭포",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "滝",
+    "夜景"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2011,
+   "ward": "西大門区",
+   "address": "서울 서대문구 홍은동",
+   "lat": 37.585,
+   "lng": 126.938,
+   "approx": true,
+   "summary": "高速道路沿いの岩壁に造られた人工の滝。夜はライトアップされ、滝前のカフェが人気。",
+   "highlights": [
+    "夜の滝"
+   ],
+   "visit": "自由（季節運転）",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-159",
+   "name": "落星垈公園",
+   "nameKo": "낙성대공원",
+   "category": "park",
+   "tags": [
+    "史跡",
+    "公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1974,
+   "ward": "冠岳区",
+   "address": "서울 관악구 낙성대로 77",
+   "lat": 37.471,
+   "lng": 126.958,
+   "approx": true,
+   "summary": "高麗の将軍姜邯賛の生誕地とされる公園。",
+   "highlights": [
+    "安国寺の祠堂"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-160",
+   "name": "洪陵の森",
+   "nameKo": "홍릉숲",
+   "category": "park",
+   "tags": [
+    "森",
+    "樹木園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1922,
+   "ward": "東大門区",
+   "address": "서울 동대문구 회기로 57",
+   "lat": 37.592,
+   "lng": 127.045,
+   "approx": true,
+   "summary": "韓国初の近代的な樹木園。週末を中心に公開されている。",
+   "highlights": [
+    "樹木園"
+   ],
+   "visit": "公開日のみ",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-161",
+   "name": "冠岳山",
+   "nameKo": "관악산",
+   "category": "park",
+   "tags": [
+    "山歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1968,
+   "ward": "冠岳区",
+   "address": "서울 관악구 신림동",
+   "lat": 37.444,
+   "lng": 126.964,
+   "approx": true,
+   "summary": "ソウル南部の岩山。ソウル大学の脇から登山道が続く。",
+   "highlights": [
+    "岩稜の眺め"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-162",
+   "name": "道峰山",
+   "nameKo": "도봉산",
+   "category": "park",
+   "tags": [
+    "山歩き",
+    "国立公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1983,
+   "ward": "道峰区",
+   "address": "서울 도봉구 도봉동",
+   "lat": 37.699,
+   "lng": 127.015,
+   "approx": true,
+   "summary": "北漢山国立公園の一部。花崗岩の峰が連なる登山の名所。",
+   "highlights": [
+    "花崗岩の峰"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-163",
+   "name": "京春線森の道",
+   "nameKo": "경춘선숲길",
+   "category": "park",
+   "tags": [
+    "線路跡",
+    "線形公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2019,
+   "ward": "蘆原区",
+   "address": "서울 노원구 공릉동",
+   "lat": 37.625,
+   "lng": 127.075,
+   "approx": true,
+   "summary": "旧京春線の廃線跡を公園にした約6kmの線形公園。",
+   "highlights": [
+    "線路が残る遊歩道"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-164",
+   "name": "二村漢江公園",
+   "nameKo": "이촌한강공원",
+   "category": "park",
+   "tags": [
+    "漢江"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "龍山区",
+   "address": "서울 용산구 이촌로72길 62",
+   "lat": 37.517,
+   "lng": 126.973,
+   "approx": true,
+   "summary": "漢江大橋の東側の公園。ノドゥル島を眺められる。",
+   "highlights": [
+    "ススキの道"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-165",
+   "name": "蚕室漢江公園",
+   "nameKo": "잠실한강공원",
+   "category": "park",
+   "tags": [
+    "漢江"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "松坡区",
+   "address": "서울 송파구 한가람로 65",
+   "lat": 37.518,
+   "lng": 127.082,
+   "approx": true,
+   "summary": "ロッテワールドタワーを背景にした漢江公園。",
+   "highlights": [
+    "タワーを望む川辺"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-166",
+   "name": "良才市民の森",
+   "nameKo": "양재시민의숲",
+   "category": "park",
+   "tags": [
+    "森",
+    "紅葉"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "瑞草区",
+   "address": "서울 서초구 매헌로 99",
+   "lat": 37.47,
+   "lng": 127.036,
+   "approx": true,
+   "summary": "メタセコイアや銀杏の林が広がる公園。",
+   "highlights": [
+    "メタセコイア並木"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-167",
+   "name": "永登浦タイムズスクエア",
+   "nameKo": "영등포 타임스퀘어",
+   "category": "shop",
+   "tags": [
+    "モール"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 영중로 15",
+   "lat": 37.517,
+   "lng": 126.903,
+   "approx": true,
+   "summary": "旧工場跡地の大型ショッピングモール。",
+   "highlights": [
+    "ガラスの吹き抜け"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-168",
+   "name": "ロッテ百貨店 本店",
+   "nameKo": "롯데백화점 본점",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "百貨店",
+    "免税"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1979,
+   "ward": "中区",
+   "address": "서울 중구 남대문로 81",
+   "lat": 37.5647,
+   "lng": 126.9817,
+   "approx": true,
+   "summary": "明洞の大型百貨店。免税店が併設されている。",
+   "highlights": [
+    "免税店"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-169",
+   "name": "GOTO MALL（高速ターミナル地下街）",
+   "nameKo": "고투몰",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "地下街"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2012,
+   "ward": "瑞草区",
+   "address": "서울 서초구 신반포로 지하 200",
+   "lat": 37.505,
+   "lng": 127.005,
+   "approx": true,
+   "summary": "高速バスターミナル駅の地下に約600店が並ぶ地下街。服や雑貨が安い。",
+   "highlights": [
+    "地下街の店並み"
+   ],
+   "visit": "自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-170",
+   "name": "中部市場",
+   "nameKo": "중부시장",
+   "category": "shop",
+   "tags": [
+    "市場",
+    "乾物"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1957,
+   "ward": "中区",
+   "address": "서울 중구 을지로36길 21",
+   "lat": 37.567,
+   "lng": 126.999,
+   "approx": true,
+   "summary": "乾物の専門市場。干物や海苔を買える。",
+   "highlights": [
+    "乾物の店並み"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-171",
+   "name": "芳山市場",
+   "nameKo": "방산시장",
+   "category": "shop",
+   "tags": [
+    "市場",
+    "道具"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1940,
+   "ward": "中区",
+   "address": "서울 중구 을지로33길 20",
+   "lat": 37.5685,
+   "lng": 126.999,
+   "approx": true,
+   "summary": "製菓材料や包装資材の専門市場。",
+   "highlights": [
+    "製菓材料"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-172",
+   "name": "可楽市場",
+   "nameKo": "가락시장",
+   "category": "shop",
+   "tags": [
+    "市場"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1985,
+   "ward": "松坡区",
+   "address": "서울 송파구 양재대로 932",
+   "lat": 37.493,
+   "lng": 127.111,
+   "approx": true,
+   "summary": "ソウル最大の農水産物の卸売市場。",
+   "highlights": [
+    "活気ある卸売"
+   ],
+   "visit": "営業時間内",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-173",
+   "name": "馬場畜産物市場",
+   "nameKo": "마장축산물시장",
+   "category": "shop",
+   "tags": [
+    "市場",
+    "焼肉"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1961,
+   "ward": "城東区",
+   "address": "서울 성동구 마장로31길 25",
+   "lat": 37.566,
+   "lng": 127.045,
+   "approx": true,
+   "summary": "精肉店が集まる市場。買った肉を近くの店で焼いてもらえる。",
+   "highlights": [
+    "市場の焼肉"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-174",
+   "name": "教保文庫 江南店",
+   "nameKo": "교보문고 강남점",
+   "category": "shop",
+   "tags": [
+    "書店"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2004,
+   "ward": "瑞草区",
+   "address": "서울 서초구 강남대로 465",
+   "lat": 37.5034,
+   "lng": 127.02461,
+   "approx": true,
+   "summary": "教保タワーの地下にある大型書店。",
+   "highlights": [
+    "大型書店"
+   ],
+   "visit": "館内自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-175",
+   "name": "梨泰院 アンティーク家具通り",
+   "nameKo": "이태원 앤틱가구거리",
+   "category": "shop",
+   "tags": [
+    "アンティーク",
+    "家具"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1960,
+   "ward": "龍山区",
+   "address": "서울 용산구 보광로",
+   "lat": 37.532,
+   "lng": 126.993,
+   "approx": true,
+   "summary": "欧米のアンティーク家具店が並ぶ通り。",
+   "highlights": [
+    "アンティーク家具"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-176",
+   "name": "経理団通り",
+   "nameKo": "경리단길",
+   "category": "shop",
+   "tags": [
+    "街歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2010,
+   "ward": "龍山区",
+   "address": "서울 용산구 회나무로",
+   "lat": 37.539,
+   "lng": 126.989,
+   "approx": true,
+   "summary": "梨泰院の坂道に小さな飲食店やショップが並ぶ。",
+   "highlights": [
+    "坂道の店並み"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-177",
+   "name": "南大門 カルグクス横丁",
+   "nameKo": "남대문시장 칼국수골목",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "市場",
+    "麺"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1970,
+   "ward": "中区",
+   "address": "서울 중구 남대문시장4길",
+   "lat": 37.5595,
+   "lng": 126.9775,
+   "approx": true,
+   "summary": "南大門市場の中の狭い横丁にカルグクスの屋台が並ぶ。カルグクスに冷麺やポリパプが付く。",
+   "highlights": [
+    "カルグクスと冷麺のセット"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-178",
+   "name": "鍾路3街 ポジャンマチャ通り",
+   "nameKo": "종로3가 포장마차거리",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "屋台",
+    "夜"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1970,
+   "ward": "鍾路区",
+   "address": "서울 종로구 돈화문로",
+   "lat": 37.5715,
+   "lng": 126.9915,
+   "approx": true,
+   "summary": "夜になるとテント張りの屋台（ポジャンマチャ）が並ぶ通り。",
+   "highlights": [
+    "夜の屋台"
+   ],
+   "visit": "夜のみ",
+   "closedDays": null,
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-179",
+   "name": "コーヒー韓薬房",
+   "nameKo": "커피한약방",
+   "category": "cafe",
+   "tags": [
+    "コーヒー",
+    "レトロ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "中区",
+   "address": "서울 중구 삼일대로12길 16-6",
+   "lat": 37.567,
+   "lng": 126.989,
+   "approx": true,
+   "summary": "乙支路の細い路地にある、古い韓薬房風の内装のコーヒー店。",
+   "highlights": [
+    "骨董の内装"
+   ],
+   "visit": "店内利用可",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-180",
+   "name": "ソウル再活用プラザ",
+   "nameKo": "서울새활용플라자",
+   "category": "public",
+   "tags": [
+    "アップサイクル"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2017,
+   "ward": "城東区",
+   "address": "서울 성동구 자동차시장길 49",
+   "lat": 37.5622,
+   "lng": 127.0625,
+   "approx": true,
+   "summary": "アップサイクル（再活用）をテーマにした公共施設。素材の展示や工房がある。",
+   "highlights": [
+    "アップサイクルの展示"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-181",
+   "name": "清渓川博物館",
+   "nameKo": "청계천박물관",
+   "category": "public",
+   "tags": [
+    "博物館",
+    "都市再生"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2005,
+   "ward": "城東区",
+   "address": "서울 성동구 청계천로 530",
+   "lat": 37.5711,
+   "lng": 127.033,
+   "approx": true,
+   "summary": "清渓川の歴史と復元事業を紹介する博物館。",
+   "highlights": [
+    "復元事業の展示"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-182",
+   "name": "世宗物語・忠武公物語",
+   "nameKo": "세종이야기",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "展示館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "鍾路区",
+   "address": "서울 종로구 세종대로 지하 175",
+   "lat": 37.572,
+   "lng": 126.9768,
+   "approx": true,
+   "summary": "光化門広場の地下にある世宗大王と李舜臣の展示館。",
+   "highlights": [
+    "ハングルの展示"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-183",
+   "name": "ソウル市庁前広場（ソウル広場）",
+   "nameKo": "서울광장",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "広場"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2004,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 110",
+   "lat": 37.5658,
+   "lng": 126.978,
+   "approx": true,
+   "summary": "市庁舎前の芝生広場。冬はスケートリンクになる。",
+   "highlights": [
+    "冬のスケートリンク"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-184",
+   "name": "中央高等学校 本館",
+   "nameKo": "중앙고등학교 본관",
+   "category": "architecture",
+   "tags": [
+    "観光客におすすめ",
+    "近代建築",
+    "ロケ地"
+   ],
+   "designers": [
+    "朴東鎮"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1937,
+   "ward": "鍾路区",
+   "address": "서울 종로구 창덕궁길 164",
+   "lat": 37.5841,
+   "lng": 126.9875,
+   "approx": true,
+   "summary": "北村の奥に建つゴシック風の石造校舎。ドラマのロケ地として知られる。",
+   "highlights": [
+    "石造の校舎"
+   ],
+   "visit": "外観（校内は配慮）",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-185",
+   "name": "朴魯寿美術館",
+   "nameKo": "박노수미술관",
+   "category": "architecture",
+   "tags": [
+    "住宅",
+    "美術館"
+   ],
+   "designers": [
+    "朴吉龍"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1938,
+   "ward": "鍾路区",
+   "address": "서울 종로구 옥인1길 34",
+   "lat": 37.5805,
+   "lng": 126.9672,
+   "approx": true,
+   "summary": "日本画家朴魯寿の旧宅を美術館にした。和洋韓の様式を折衷した住宅。",
+   "highlights": [
+    "折衷様式の住宅と庭"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-186",
+   "name": "GTタワー",
+   "nameKo": "GT타워",
+   "category": "architecture",
+   "tags": [
+    "超高層",
+    "ファサード"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2011,
+   "ward": "瑞草区",
+   "address": "서울 서초구 서초대로 411",
+   "lat": 37.4985,
+   "lng": 127.0255,
+   "approx": true,
+   "summary": "波打つ外壁が特徴の江南駅前の超高層オフィスビル。",
+   "highlights": [
+    "波打つガラスの外壁"
+   ],
+   "visit": "外観のみ",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-187",
+   "name": "タプコル公園",
+   "nameKo": "탑골공원",
+   "category": "park",
+   "tags": [
+    "史跡",
+    "公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1897,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로 99",
+   "lat": 37.5711,
+   "lng": 126.9882,
+   "approx": true,
+   "summary": "ソウル最初の近代的な公園。円覚寺址十層石塔が保存されている。",
+   "highlights": [
+    "円覚寺址十層石塔"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-188",
+   "name": "汝矣島公園",
+   "nameKo": "여의도공원",
+   "category": "park",
+   "tags": [
+    "公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1999,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 여의공원로 68",
+   "lat": 37.526,
+   "lng": 126.923,
+   "approx": true,
+   "summary": "かつての飛行場を公園にした汝矣島の大きな緑地。",
+   "highlights": [
+    "伝統の森",
+    "自転車道"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-189",
+   "name": "貞陵",
+   "nameKo": "정릉",
+   "category": "park",
+   "tags": [
+    "世界遺産",
+    "王陵"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1409,
+   "ward": "城北区",
+   "address": "서울 성북구 아리랑로19길 116",
+   "lat": 37.6025,
+   "lng": 127.006,
+   "approx": true,
+   "summary": "朝鮮王朝の王妃の陵墓で世界遺産の一つ。森の散策路がある。",
+   "highlights": [
+    "森の散策路"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-190",
+   "name": "泰陵・康陵",
+   "nameKo": "태릉",
+   "category": "park",
+   "tags": [
+    "世界遺産",
+    "王陵"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1565,
+   "ward": "蘆原区",
+   "address": "서울 노원구 화랑로 681",
+   "lat": 37.62,
+   "lng": 127.095,
+   "approx": true,
+   "summary": "朝鮮王朝の王陵群で世界遺産の一つ。朝鮮王陵展示館がある。",
+   "highlights": [
+    "朝鮮王陵展示館"
+   ],
+   "visit": "入場可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-191",
+   "name": "孝昌公園",
+   "nameKo": "효창공원",
+   "category": "park",
+   "tags": [
+    "公園",
+    "史跡"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1924,
+   "ward": "龍山区",
+   "address": "서울 용산구 효창원로 177-18",
+   "lat": 37.544,
+   "lng": 126.961,
+   "approx": true,
+   "summary": "独立運動家の墓所がある公園。",
+   "highlights": [
+    "墓所と松林"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-192",
+   "name": "孔徳市場 チョン通り",
+   "nameKo": "공덕시장 전골목",
+   "category": "cafe",
+   "tags": [
+    "市場",
+    "チヂミ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1970,
+   "ward": "麻浦区",
+   "address": "서울 마포구 만리재로 23",
+   "lat": 37.545,
+   "lng": 126.953,
+   "approx": true,
+   "summary": "チヂミ（チョン）と豚足の店が並ぶ市場の横丁。",
+   "highlights": [
+    "盛り合わせのチョン"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-193",
+   "name": "新林洞 スンデタウン",
+   "nameKo": "신림동 순대타운",
+   "category": "cafe",
+   "tags": [
+    "韓国料理"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1980,
+   "ward": "冠岳区",
+   "address": "서울 관악구 신림로59길 14",
+   "lat": 37.484,
+   "lng": 126.929,
+   "approx": true,
+   "summary": "ビルの中に韓国式の腸詰め炒め（ペクスンデ）の店が集まる。",
+   "highlights": [
+    "ペクスンデ"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-194",
+   "name": "往十里 コプチャン通り",
+   "nameKo": "왕십리 곱창골목",
+   "category": "cafe",
+   "tags": [
+    "焼肉",
+    "通り"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1980,
+   "ward": "城東区",
+   "address": "서울 성동구 왕십리로",
+   "lat": 37.563,
+   "lng": 127.034,
+   "approx": true,
+   "summary": "ホルモン焼き（コプチャン）の店が並ぶ通り。",
+   "highlights": [
+    "コプチャン"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-195",
+   "name": "新沙洞 カンジャンケジャン通り",
+   "nameKo": "신사동 간장게장골목",
+   "category": "cafe",
+   "tags": [
+    "観光客におすすめ",
+    "海鮮",
+    "通り"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1980,
+   "ward": "江南区",
+   "address": "서울 강남구 신사동",
+   "lat": 37.5175,
+   "lng": 127.0205,
+   "approx": true,
+   "summary": "ワタリガニの醤油漬けの店が集まる通り。",
+   "highlights": [
+    "カンジャンケジャン"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-196",
+   "name": "会賢地下ショッピングセンター",
+   "nameKo": "회현지하쇼핑센터",
+   "category": "shop",
+   "tags": [
+    "レコード",
+    "地下街"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1977,
+   "ward": "中区",
+   "address": "서울 중구 소공로 지하 70",
+   "lat": 37.559,
+   "lng": 126.98,
+   "approx": true,
+   "summary": "中古レコードや切手、古銭の店が集まる地下街。",
+   "highlights": [
+    "LPレコード店"
+   ],
+   "visit": "館内自由",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-197",
+   "name": "龍山電子商街",
+   "nameKo": "용산전자상가",
+   "category": "shop",
+   "tags": [
+    "電気街"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1987,
+   "ward": "龍山区",
+   "address": "서울 용산구 청파로 74",
+   "lat": 37.529,
+   "lng": 126.964,
+   "approx": true,
+   "summary": "パソコンや家電の部品店が集まる電気街。",
+   "highlights": [
+    "パソコン部品の店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-198",
+   "name": "南山ケーブルカー",
+   "nameKo": "남산 케이블카",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "ロープウェイ",
+    "展望"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1962,
+   "ward": "中区",
+   "address": "서울 중구 소파로 83",
+   "lat": 37.556,
+   "lng": 126.983,
+   "approx": true,
+   "summary": "明洞側の駅から南山の山頂近くまで上るロープウェイ。",
+   "highlights": [
+    "山頂への空中散歩"
+   ],
+   "visit": "有料",
+   "closedDays": [],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-199",
+   "name": "漢江遊覧船（汝矣島船着場）",
+   "nameKo": "한강유람선 여의도선착장",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "クルーズ",
+    "夜景"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 여의동로 280",
+   "lat": 37.5272,
+   "lng": 126.9327,
+   "approx": true,
+   "summary": "汝矣島から漢江を巡るクルーズ船。夜は橋のライトアップを眺められる。",
+   "highlights": [
+    "夜のクルーズ"
+   ],
+   "visit": "有料",
+   "closedDays": [],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-200",
+   "name": "南山公園",
+   "nameKo": "남산공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "山",
+    "展望"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1940,
+   "ward": "中区",
+   "address": "서울 중구 삼일대로 231",
+   "lat": 37.5509,
+   "lng": 126.988,
+   "approx": true,
+   "summary": "ソウル中心部の山を丸ごと公園にした緑地。ケーブルカーや循環バスでNソウルタワーへ上れる。",
+   "highlights": [
+    "南山ケーブルカー",
+    "城郭沿いの散策路"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-201",
+   "name": "清渓川",
+   "nameKo": "청계천",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "水辺",
+    "都市再生"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2005,
+   "ward": "鍾路区",
+   "address": "서울 종로구 청계천로",
+   "lat": 37.569,
+   "lng": 126.978,
+   "approx": true,
+   "summary": "高架道路を撤去して復元した約11kmの河川。都心を歩いて下れる水辺の遊歩道。",
+   "highlights": [
+    "清渓広場の滝",
+    "夜の照明"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-202",
+   "name": "ソウルの森",
+   "nameKo": "서울숲",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "森",
+    "公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2005,
+   "ward": "城東区",
+   "address": "서울 성동구 뚝섬로 273",
+   "lat": 37.5444,
+   "lng": 127.0374,
+   "approx": true,
+   "summary": "ゴルフ場や競馬場の跡地につくられた大規模な森林公園。シカの放牧場もある。",
+   "highlights": [
+    "シカの放牧場",
+    "銀杏並木"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-203",
+   "name": "汝矣島漢江公園",
+   "nameKo": "여의도한강공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "漢江",
+    "ピクニック"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 여의동로 330",
+   "lat": 37.5284,
+   "lng": 126.933,
+   "approx": true,
+   "summary": "漢江沿いの公園。デリバリーのチキンを芝生で食べるのがソウル流の楽しみ方。",
+   "highlights": [
+    "芝生でのピクニック",
+    "夜のクルーズ船"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-204",
+   "name": "盤浦漢江公園",
+   "nameKo": "반포한강공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "漢江",
+    "夜景"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "瑞草区",
+   "address": "서울 서초구 신반포로11길 40",
+   "lat": 37.5103,
+   "lng": 126.996,
+   "approx": true,
+   "summary": "盤浦大橋の月光虹噴水とセビッソムを望む漢江公園。",
+   "highlights": [
+    "月光虹噴水"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-205",
+   "name": "トゥクソム漢江公園",
+   "nameKo": "뚝섬한강공원",
+   "category": "park",
+   "tags": [
+    "漢江"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "広津区",
+   "address": "서울 광진구 강변북로 139",
+   "lat": 37.5304,
+   "lng": 127.067,
+   "approx": true,
+   "summary": "水上スポーツやプールが楽しめる漢江公園。",
+   "highlights": [
+    "漢江の眺め"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-206",
+   "name": "望遠漢江公園",
+   "nameKo": "망원한강공원",
+   "category": "park",
+   "tags": [
+    "漢江",
+    "夕日"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "麻浦区",
+   "address": "서울 마포구 마포나루길 467",
+   "lat": 37.5552,
+   "lng": 126.895,
+   "approx": true,
+   "summary": "望遠市場から歩ける漢江公園。夕日の名所。",
+   "highlights": [
+    "漢江の夕日"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-207",
+   "name": "仙遊島公園",
+   "nameKo": "선유도공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "産業遺産",
+    "ランドスケープ"
+   ],
+   "designers": [
+    "曺成龍",
+    "鄭栄善"
+   ],
+   "designerTypes": [
+    "建築家",
+    "建築家"
+   ],
+   "year": 2002,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 선유로 343",
+   "lat": 37.5432,
+   "lng": 126.8995,
+   "approx": true,
+   "summary": "浄水場の跡地を再生した漢江の中州の公園。沈殿池やコンクリートの柱を残した庭園が美しい。",
+   "highlights": [
+    "浄水場の遺構の庭園"
+   ],
+   "visit": "入園無料",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-208",
+   "name": "ソウル路7017",
+   "nameKo": "서울로7017",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "MVRDV",
+    "高架再生"
+   ],
+   "designers": [
+    "MVRDV"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2017,
+   "ward": "中区",
+   "address": "서울 중구 퇴계로 지하 19",
+   "lat": 37.5568,
+   "lng": 126.9707,
+   "approx": true,
+   "summary": "ソウル駅前の古い高架道路を歩行者専用の空中庭園に再生した。円形の植木鉢が約1kmにわたって並ぶ。",
+   "highlights": [
+    "円形の植木鉢",
+    "夜の青い照明"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-209",
+   "name": "ソウル植物園",
+   "nameKo": "서울식물원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "植物園",
+    "温室"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2019,
+   "ward": "江西区",
+   "address": "서울 강서구 마곡동로 161",
+   "lat": 37.5694,
+   "lng": 126.835,
+   "approx": true,
+   "summary": "公園と植物園が一体になった施設。直径約100mの円盤形の温室が目印。",
+   "highlights": [
+    "円盤形の温室"
+   ],
+   "visit": "温室は有料",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-210",
+   "name": "オリンピック公園",
+   "nameKo": "올림픽공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "五輪",
+    "彫刻"
+   ],
+   "designers": [
+    "金重業（平和の門）"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1986,
+   "ward": "松坡区",
+   "address": "서울 송파구 올림픽로 424",
+   "lat": 37.5207,
+   "lng": 127.1213,
+   "approx": true,
+   "summary": "1988年ソウルオリンピックの会場跡の公園。金重業設計の「平和の門」や百済の土城、彫刻公園がある。",
+   "highlights": [
+    "平和の門",
+    "ひとりの木"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-211",
+   "name": "石村湖水",
+   "nameKo": "석촌호수",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "湖",
+    "桜"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1986,
+   "ward": "松坡区",
+   "address": "서울 송파구 잠실로 148",
+   "lat": 37.509,
+   "lng": 127.105,
+   "approx": true,
+   "summary": "ロッテワールドタワーを望む湖。春は湖畔の桜並木が人で賑わう。",
+   "highlights": [
+    "湖畔の桜並木"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-212",
+   "name": "北ソウル夢の森",
+   "nameKo": "북서울꿈의숲",
+   "category": "park",
+   "tags": [
+    "公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "江北区",
+   "address": "서울 강북구 월계로 173",
+   "lat": 37.6206,
+   "lng": 127.0405,
+   "approx": true,
+   "summary": "遊園地跡を再生した大型の公園。展望台から北漢山を望める。",
+   "highlights": [
+    "展望台"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-213",
+   "name": "ワールドカップ公園 ハヌル公園",
+   "nameKo": "하늘공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "再生",
+    "草原"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2002,
+   "ward": "麻浦区",
+   "address": "서울 마포구 하늘공원로 95",
+   "lat": 37.5683,
+   "lng": 126.885,
+   "approx": true,
+   "summary": "ごみ埋立地を再生した丘の上の公園。秋はススキの草原が広がる。",
+   "highlights": [
+    "秋のススキ"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-214",
+   "name": "京義線森の道",
+   "nameKo": "경의선숲길",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "線路跡",
+    "線形公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2015,
+   "ward": "麻浦区",
+   "address": "서울 마포구 연남동",
+   "lat": 37.5602,
+   "lng": 126.9241,
+   "approx": true,
+   "summary": "地下化された鉄道の跡地に続く約6kmの線形公園。延南洞区間は「ヨントラルパーク」と呼ばれる。",
+   "highlights": [
+    "延南洞の芝生"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-215",
+   "name": "駱山公園",
+   "nameKo": "낙산공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "城郭",
+    "夜景"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2002,
+   "ward": "鍾路区",
+   "address": "서울 종로구 낙산길 41",
+   "lat": 37.5806,
+   "lng": 127.0074,
+   "approx": true,
+   "summary": "ソウルの城郭が続く小高い丘の公園。城壁沿いに夜景を眺めながら歩ける。",
+   "highlights": [
+    "城郭沿いの夜景"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-216",
+   "name": "仁王山 城郭路",
+   "nameKo": "인왕산 한양도성",
+   "category": "park",
+   "tags": [
+    "城郭",
+    "山歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1396,
+   "ward": "鍾路区",
+   "address": "서울 종로구 사직동",
+   "lat": 37.58,
+   "lng": 126.959,
+   "approx": true,
+   "summary": "岩山の尾根に続くソウル城郭の散策路。頂上から景福宮と都心を見下ろせる。",
+   "highlights": [
+    "山頂からの都心の眺め"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-217",
+   "name": "北岳スカイウェイ 八角亭",
+   "nameKo": "북악스카이웨이 팔각정",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "展望",
+    "夜景"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1968,
+   "ward": "鍾路区",
+   "address": "서울 종로구 북악산로 267",
+   "lat": 37.6012,
+   "lng": 126.98,
+   "approx": true,
+   "summary": "北岳山の稜線を走る道路の展望台。ソウルの夜景を一望できる。",
+   "highlights": [
+    "夜景"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-218",
+   "name": "ユン・ドンジュ 詩人の丘",
+   "nameKo": "윤동주 시인의 언덕",
+   "category": "park",
+   "tags": [
+    "丘",
+    "眺望"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "鍾路区",
+   "address": "서울 종로구 청운동",
+   "lat": 37.5917,
+   "lng": 126.965,
+   "approx": true,
+   "summary": "ユン・ドンジュ文学館の裏手の丘。城郭とソウルの街並みを見渡せる。",
+   "highlights": [
+    "城郭の眺め"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-219",
+   "name": "安山 自然公園",
+   "nameKo": "안산자락길",
+   "category": "park",
+   "tags": [
+    "山歩き",
+    "木道"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2013,
+   "ward": "西大門区",
+   "address": "서울 서대문구 봉원동",
+   "lat": 37.5745,
+   "lng": 126.945,
+   "approx": true,
+   "summary": "安山を一周する約7kmのバリアフリーの木道。",
+   "highlights": [
+    "メタセコイア林"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-220",
+   "name": "島山公園",
+   "nameKo": "도산공원",
+   "category": "park",
+   "tags": [
+    "公園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1973,
+   "ward": "江南区",
+   "address": "서울 강남구 도산대로45길 20",
+   "lat": 37.524,
+   "lng": 127.035,
+   "approx": true,
+   "summary": "独立運動家安昌浩を記念する公園。周辺はブランドの旗艦店が多い。",
+   "highlights": [
+    "記念館"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-221",
+   "name": "マロニエ公園",
+   "nameKo": "마로니에공원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "劇場街"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1975,
+   "ward": "鍾路区",
+   "address": "서울 종로구 대학로 104",
+   "lat": 37.5814,
+   "lng": 127.00311,
+   "approx": true,
+   "summary": "大学路の中心の公園。周りに小劇場が集まる。",
+   "highlights": [
+    "週末の路上公演"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-222",
+   "name": "徳寿宮 石垣道",
+   "nameKo": "덕수궁 돌담길",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "散策路",
+    "紅葉"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1900,
+   "ward": "中区",
+   "address": "서울 중구 정동길",
+   "lat": 37.5653,
+   "lng": 126.974,
+   "approx": true,
+   "summary": "徳寿宮の石垣に沿う並木道。秋の銀杏が美しい散策路。",
+   "highlights": [
+    "秋の銀杏"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-223",
+   "name": "開かれた松峴緑地広場",
+   "nameKo": "열린송현녹지광장",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "広場",
+    "緑地"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2022,
+   "ward": "鍾路区",
+   "address": "서울 종로구 송현동 48-9",
+   "lat": 37.577,
+   "lng": 126.983,
+   "approx": true,
+   "summary": "長く塀に囲まれていた土地を開放した都心の緑地広場。景福宮と北村の間にある。",
+   "highlights": [
+    "広い芝生と花畑"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-224",
+   "name": "ソウル子供大公園",
+   "nameKo": "서울어린이대공원",
+   "category": "park",
+   "tags": [
+    "公園",
+    "動物園"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1973,
+   "ward": "広津区",
+   "address": "서울 광진구 능동로 216",
+   "lat": 37.5481,
+   "lng": 127.0745,
+   "approx": true,
+   "summary": "動物園や植物園のある大型の公園。",
+   "highlights": [
+    "動物園"
+   ],
+   "visit": "入園無料",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-225",
+   "name": "花郎台鉄道公園",
+   "nameKo": "화랑대철도공원",
+   "category": "park",
+   "tags": [
+    "鉄道",
+    "廃線"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2019,
+   "ward": "蘆原区",
+   "address": "서울 노원구 화랑로 608",
+   "lat": 37.619,
+   "lng": 127.083,
+   "approx": true,
+   "summary": "廃線になった旧花郎台駅の周りを公園にした。古い車両が展示されている。",
+   "highlights": [
+    "旧駅舎と車両"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-226",
+   "name": "西ソウル湖水公園",
+   "nameKo": "서서울호수공원",
+   "category": "park",
+   "tags": [
+    "再生",
+    "噴水"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "陽川区",
+   "address": "서울 양천구 남부순환로64길 20",
+   "lat": 37.528,
+   "lng": 126.834,
+   "approx": true,
+   "summary": "浄水場跡を再生した公園。飛行機が通過すると噴水が上がる仕掛けがある。",
+   "highlights": [
+    "騒音に反応する噴水"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-227",
+   "name": "昌徳宮 後苑（秘苑）",
+   "nameKo": "창덕궁 후원",
+   "category": "park",
+   "tags": [
+    "観光客におすすめ",
+    "庭園",
+    "世界遺産"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1406,
+   "ward": "鍾路区",
+   "address": "서울 종로구 율곡로 99",
+   "lat": 37.583,
+   "lng": 126.992,
+   "approx": true,
+   "summary": "王室の庭園。池と東屋が自然の地形の中に点在する。見学は予約制のガイドツアー。",
+   "highlights": [
+    "芙蓉池と宙合楼"
+   ],
+   "visit": "予約制ツアー",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-228",
+   "name": "ソウル市庁 新庁舎",
+   "nameKo": "서울특별시청",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "庁舎",
+    "柳傑"
+   ],
+   "designers": [
+    "柳傑（iArc）"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2012,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 110",
+   "lat": 37.5665,
+   "lng": 126.978,
+   "approx": true,
+   "summary": "旧庁舎の背後に建つ、波のようなガラスの庁舎。内部に壁面緑化の「グリーンウォール」がある。",
+   "highlights": [
+    "波形のガラス",
+    "グリーンウォール"
+   ],
+   "visit": "館内一部自由",
+   "closedDays": [
+    0,
+    6
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-229",
+   "name": "ソウル図書館（旧ソウル市庁舎）",
+   "nameKo": "서울도서관",
+   "category": "public",
+   "tags": [
+    "図書館",
+    "近代建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1926,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 110",
+   "lat": 37.5662,
+   "lng": 126.9779,
+   "approx": true,
+   "summary": "旧京城府庁舎を改修した図書館。",
+   "highlights": [
+    "旧市長室の展示",
+    "大閲覧室"
+   ],
+   "visit": "入館自由",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-230",
+   "name": "光化門広場",
+   "nameKo": "광화문광장",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "広場"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2009,
+   "ward": "鍾路区",
+   "address": "서울 종로구 세종대로 172",
+   "lat": 37.5725,
+   "lng": 126.9769,
+   "approx": true,
+   "summary": "世宗大王と李舜臣の像が立つソウル中心の広場。2022年に再整備され緑地が増えた。",
+   "highlights": [
+    "世宗大王像",
+    "噴水"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-231",
+   "name": "ピョルマダン図書館",
+   "nameKo": "별마당도서관",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "図書館",
+    "モール"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2017,
+   "ward": "江南区",
+   "address": "서울 강남구 영동대로 513 코엑스몰",
+   "lat": 37.51,
+   "lng": 127.06,
+   "approx": true,
+   "summary": "COEXモールの中心にある、高さ13mの書架に囲まれた開放型の図書館。",
+   "highlights": [
+    "高さ13mの書架"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-232",
+   "name": "国立中央図書館",
+   "nameKo": "국립중앙도서관",
+   "category": "public",
+   "tags": [
+    "図書館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1988,
+   "ward": "瑞草区",
+   "address": "서울 서초구 반포대로 201",
+   "lat": 37.4979,
+   "lng": 127.0045,
+   "approx": true,
+   "summary": "韓国の国立図書館。",
+   "highlights": [
+    "大閲覧室"
+   ],
+   "visit": "入館自由（16歳以上）",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-233",
+   "name": "盤浦大橋 月光虹噴水",
+   "nameKo": "반포대교 달빛무지개분수",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "夜景",
+    "噴水"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2008,
+   "ward": "瑞草区",
+   "address": "서울 서초구 신반포로11길 40",
+   "lat": 37.5125,
+   "lng": 126.996,
+   "approx": true,
+   "summary": "橋の両側から漢江へ水が噴き出す世界最長の橋の噴水。夜は照明と音楽の演出がある。",
+   "highlights": [
+    "夜の噴水ショー"
+   ],
+   "visit": "自由（季節運行）",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-234",
+   "name": "ノドゥル島",
+   "nameKo": "노들섬",
+   "category": "public",
+   "tags": [
+    "観光客におすすめ",
+    "漢江",
+    "文化施設"
+   ],
+   "designers": [
+    "MMKM"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2019,
+   "ward": "龍山区",
+   "address": "서울 용산구 양녕로 445",
+   "lat": 37.5178,
+   "lng": 126.958,
+   "approx": true,
+   "summary": "漢江大橋の中ほどにある中州の文化施設。屋上から漢江と汝矣島の夕日を眺められる。",
+   "highlights": [
+    "屋上の芝生",
+    "夕日"
+   ],
+   "visit": "自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-235",
+   "name": "ソウル冊宝庫",
+   "nameKo": "서울책보고",
+   "category": "public",
+   "tags": [
+    "古書",
+    "倉庫改修"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2019,
+   "ward": "松坡区",
+   "address": "서울 송파구 오금로 1",
+   "lat": 37.5112,
+   "lng": 127.108,
+   "approx": true,
+   "summary": "倉庫を改装した公共の古書店。アーチ状の書架のトンネルが続く。",
+   "highlights": [
+    "アーチ状の書架"
+   ],
+   "visit": "入館無料",
+   "closedDays": [
+    1
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-236",
+   "name": "大学路 小劇場街",
+   "nameKo": "대학로 소극장거리",
+   "category": "public",
+   "tags": [
+    "劇場街"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1980,
+   "ward": "鍾路区",
+   "address": "서울 종로구 대학로",
+   "lat": 37.582,
+   "lng": 127.002,
+   "approx": true,
+   "summary": "約150の小劇場が集まる演劇の街。",
+   "highlights": [
+    "小劇場の公演"
+   ],
+   "visit": "公演ごとに異なる",
+   "closedDays": null,
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-237",
+   "name": "ソウル市 西大門自然史博物館",
+   "nameKo": "서대문자연사박물관",
+   "category": "public",
+   "tags": [
+    "博物館"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2003,
+   "ward": "西大門区",
+   "address": "서울 서대문구 연희로32길 51",
+   "lat": 37.578,
+   "lng": 126.9395,
+   "approx": true,
+   "summary": "恐竜の骨格標本などを展示する区立の自然史博物館。",
+   "highlights": [
+    "恐竜の骨格"
+   ],
+   "visit": "入館可",
+   "closedDays": [
+    1
+   ],
+   "free": false,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-238",
+   "name": "蚕室 ソウル総合運動場",
+   "nameKo": "잠실종합운동장",
+   "category": "public",
+   "tags": [
+    "金壽根",
+    "五輪"
+   ],
+   "designers": [
+    "金壽根"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 1984,
+   "ward": "松坡区",
+   "address": "서울 송파구 올림픽로 25",
+   "lat": 37.5154,
+   "lng": 127.0728,
+   "approx": true,
+   "summary": "1988年ソウル五輪の主会場。金壽根が朝鮮白磁の曲線をモチーフに設計した。",
+   "highlights": [
+    "白磁の曲線の屋根"
+   ],
+   "visit": "外観",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-239",
+   "name": "漢江大橋",
+   "nameKo": "한강대교",
+   "category": "public",
+   "tags": [
+    "橋"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1917,
+   "ward": "龍山区",
+   "address": "서울 용산구 이촌동",
+   "lat": 37.518,
+   "lng": 126.959,
+   "approx": true,
+   "summary": "漢江に最初に架けられた道路橋。中ほどにノドゥル島がある。",
+   "highlights": [
+    "アーチ橋"
+   ],
+   "visit": "通行自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-240",
+   "name": "ソウル市民庁",
+   "nameKo": "서울시민청",
+   "category": "public",
+   "tags": [
+    "市民施設"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2013,
+   "ward": "中区",
+   "address": "서울 중구 세종대로 110 지하",
+   "lat": 37.5664,
+   "lng": 126.9781,
+   "approx": true,
+   "summary": "ソウル市庁新庁舎の地下にある市民の交流空間。展示やイベントが開かれる。",
+   "highlights": [
+    "地下の交流空間"
+   ],
+   "visit": "入館自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-241",
+   "name": "広蔵市場",
+   "nameKo": "광장시장",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "市場"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1905,
+   "ward": "鍾路区",
+   "address": "서울 종로구 창경궁로 88",
+   "lat": 37.57,
+   "lng": 126.99971,
+   "approx": true,
+   "summary": "1905年開設の韓国最古の常設市場の一つ。屋台街のほか、布地や韓服の店が並ぶ。",
+   "highlights": [
+    "屋台街",
+    "韓服の布地店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-242",
+   "name": "南大門市場",
+   "nameKo": "남대문시장",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "市場"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1964,
+   "ward": "中区",
+   "address": "서울 중구 남대문시장4길 21",
+   "lat": 37.5592,
+   "lng": 126.9776,
+   "approx": true,
+   "summary": "約1万店が集まる韓国最大級の総合市場。衣類、食器、海苔、高麗人参など何でもそろう。",
+   "highlights": [
+    "食器・調理器具の卸店",
+    "カルチ（太刀魚）煮込み横丁"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-243",
+   "name": "明洞",
+   "nameKo": "명동",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "繁華街",
+    "コスメ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1960,
+   "ward": "中区",
+   "address": "서울 중구 명동길",
+   "lat": 37.5636,
+   "lng": 126.9851,
+   "approx": true,
+   "summary": "化粧品店やファッション店、屋台が密集するソウルの代表的な繁華街。",
+   "highlights": [
+    "夕方からの屋台",
+    "コスメ店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [],
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-244",
+   "name": "東大門ファッションタウン",
+   "nameKo": "동대문 패션타운",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "ファッション",
+    "卸売"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1990,
+   "ward": "中区",
+   "address": "서울 중구 장충단로",
+   "lat": 37.568,
+   "lng": 127.008,
+   "approx": true,
+   "summary": "DDPを囲むように衣料品の卸売・小売ビルが並ぶ。深夜まで営業するビルも多い。",
+   "highlights": [
+    "深夜の卸売市場"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-245",
+   "name": "東廟蚤の市",
+   "nameKo": "동묘 벼룩시장",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "蚤の市",
+    "古着"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1980,
+   "ward": "鍾路区",
+   "address": "서울 종로구 숭인동",
+   "lat": 37.573,
+   "lng": 127.016,
+   "approx": true,
+   "summary": "東廟の周りに古着や骨董、雑貨の露店が並ぶ蚤の市。",
+   "highlights": [
+    "古着の山"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-246",
+   "name": "通仁市場",
+   "nameKo": "통인시장",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "市場"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1941,
+   "ward": "鍾路区",
+   "address": "서울 종로구 자하문로15길 18",
+   "lat": 37.5808,
+   "lng": 126.97011,
+   "approx": true,
+   "summary": "西村の小さな在来市場。古銭で惣菜を買って弁当にできる。",
+   "highlights": [
+    "お弁当カフェ"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-247",
+   "name": "京東市場",
+   "nameKo": "경동시장",
+   "category": "shop",
+   "tags": [
+    "市場",
+    "韓方"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1960,
+   "ward": "東大門区",
+   "address": "서울 동대문구 왕산로 147",
+   "lat": 37.5792,
+   "lng": 127.039,
+   "approx": true,
+   "summary": "韓方薬材と農産物の大規模市場。",
+   "highlights": [
+    "韓方薬材の店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-248",
+   "name": "ノリャンジン水産市場",
+   "nameKo": "노량진수산시장",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "市場",
+    "海鮮"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1927,
+   "ward": "銅雀区",
+   "address": "서울 동작구 노들로 674",
+   "lat": 37.5135,
+   "lng": 126.94061,
+   "approx": true,
+   "summary": "ソウル最大の水産市場。2016年に新しい市場棟へ移転した。",
+   "highlights": [
+    "活魚の売場"
+   ],
+   "visit": "営業時間内",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-249",
+   "name": "教保文庫 光化門店",
+   "nameKo": "교보문고 광화문점",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "書店"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1981,
+   "ward": "鍾路区",
+   "address": "서울 종로구 종로 1",
+   "lat": 37.571,
+   "lng": 126.9778,
+   "approx": true,
+   "summary": "韓国最大級の書店。大きな木のテーブルで本を読める。",
+   "highlights": [
+    "カウリの大テーブル"
+   ],
+   "visit": "館内自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-250",
+   "name": "スターフィールド COEXモール",
+   "nameKo": "스타필드 코엑스몰",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "モール"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2000,
+   "ward": "江南区",
+   "address": "서울 강남구 영동대로 513",
+   "lat": 37.5115,
+   "lng": 127.0595,
+   "approx": true,
+   "summary": "地下に広がる巨大ショッピングモール。中央に「ピョルマダン図書館」がある。",
+   "highlights": [
+    "ピョルマダン図書館",
+    "水族館"
+   ],
+   "visit": "館内自由",
+   "closedDays": [],
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-251",
+   "name": "ザ・現代ソウル",
+   "nameKo": "더현대 서울",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "百貨店"
+   ],
+   "designers": [
+    "リチャード・ロジャース"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2021,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 여의대로 108",
+   "lat": 37.5259,
+   "lng": 126.9284,
+   "approx": true,
+   "summary": "ソウル最大の百貨店。吹き抜けに屋内庭園「サウンズ・フォレスト」がある。",
+   "highlights": [
+    "屋内庭園",
+    "ポップアップストア"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-252",
+   "name": "ギャラリア百貨店 名品館 WEST",
+   "nameKo": "갤러리아백화점 명품관 WEST",
+   "category": "shop",
+   "tags": [
+    "UNStudio",
+    "ファサード"
+   ],
+   "designers": [
+    "UNStudio"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2004,
+   "ward": "江南区",
+   "address": "서울 강남구 압구정로 407",
+   "lat": 37.5279,
+   "lng": 127.0405,
+   "approx": true,
+   "summary": "ガラスのディスクで覆われたファサードが夜に色を変える百貨店。",
+   "highlights": [
+    "夜に光るガラスディスク"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-253",
+   "name": "ロッテワールドモール",
+   "nameKo": "롯데월드몰",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "モール"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "松坡区",
+   "address": "서울 송파구 올림픽로 300",
+   "lat": 37.5132,
+   "lng": 127.104,
+   "approx": true,
+   "summary": "ロッテワールドタワーの足元の大型モール。",
+   "highlights": [
+    "タワーの足元"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-254",
+   "name": "カロスキル",
+   "nameKo": "가로수길",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "ファッション"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2000,
+   "ward": "江南区",
+   "address": "서울 강남구 압구정로",
+   "lat": 37.5205,
+   "lng": 127.0228,
+   "approx": true,
+   "summary": "イチョウ並木沿いにブティックやカフェが並ぶ新沙洞の通り。",
+   "highlights": [
+    "イチョウ並木",
+    "裏通りの店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-255",
+   "name": "狎鴎亭ロデオ通り",
+   "nameKo": "압구정로데오거리",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "ファッション",
+    "街歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1990,
+   "ward": "江南区",
+   "address": "서울 강남구 선릉로",
+   "lat": 37.527,
+   "lng": 127.039,
+   "approx": true,
+   "summary": "ブランドのフラッグシップやセレクトショップが集まる地区。",
+   "highlights": [
+    "フラッグシップストア"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-256",
+   "name": "島山公園 周辺",
+   "nameKo": "도산공원 일대",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "ファッション",
+    "建築"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2010,
+   "ward": "江南区",
+   "address": "서울 강남구 도산대로45길",
+   "lat": 37.5239,
+   "lng": 127.03511,
+   "approx": true,
+   "summary": "島山公園の周りに建築に凝ったブランドの旗艦店が集まる。",
+   "highlights": [
+    "ブランドの旗艦店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-257",
+   "name": "ハウス ドサン（GENTLE MONSTER）",
+   "nameKo": "하우스 도산",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "旗艦店",
+    "インスタレーション"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2020,
+   "ward": "江南区",
+   "address": "서울 강남구 압구정로46길 50",
+   "lat": 37.5244,
+   "lng": 127.037,
+   "approx": true,
+   "summary": "アイウェアブランドの旗艦店。展示のような売場で、カフェやコスメ店も入る。",
+   "highlights": [
+    "インスタレーションのような売場"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-258",
+   "name": "弘大 ショッピング通り",
+   "nameKo": "홍대 거리",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "若者"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1990,
+   "ward": "麻浦区",
+   "address": "서울 마포구 어울마당로",
+   "lat": 37.5563,
+   "lng": 126.9236,
+   "approx": true,
+   "summary": "弘益大学の周りの若者の街。古着、雑貨、ストリートライブの通りが続く。",
+   "highlights": [
+    "路上ライブ",
+    "古着"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-259",
+   "name": "延南洞",
+   "nameKo": "연남동",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2015,
+   "ward": "麻浦区",
+   "address": "서울 마포구 연남동",
+   "lat": 37.5619,
+   "lng": 126.92411,
+   "approx": true,
+   "summary": "京義線森の道沿いの住宅地に、小さな店やカフェが点在する。",
+   "highlights": [
+    "森の道沿いの店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-260",
+   "name": "聖水洞",
+   "nameKo": "성수동",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "ポップアップ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2015,
+   "ward": "城東区",
+   "address": "서울 성동구 성수동2가",
+   "lat": 37.5429,
+   "lng": 127.05611,
+   "approx": true,
+   "summary": "町工場と倉庫を改装した店が並ぶ。ブランドのポップアップストアが次々に開かれる。",
+   "highlights": [
+    "ポップアップストア"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-261",
+   "name": "梨泰院",
+   "nameKo": "이태원",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "多国籍"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1990,
+   "ward": "龍山区",
+   "address": "서울 용산구 이태원로",
+   "lat": 37.5345,
+   "lng": 126.9946,
+   "approx": true,
+   "summary": "多国籍な店や飲食店が集まる国際色豊かな街。",
+   "highlights": [
+    "多国籍の飲食店"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-262",
+   "name": "漢南洞",
+   "nameKo": "한남동",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "街歩き",
+    "ファッション"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2010,
+   "ward": "龍山区",
+   "address": "서울 용산구 한남대로",
+   "lat": 37.537,
+   "lng": 127.002,
+   "approx": true,
+   "summary": "リウム美術館の周りにブランドの旗艦店やギャラリー、カフェが集まる。",
+   "highlights": [
+    "旗艦店とギャラリー"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-263",
+   "name": "三清洞 ギャラリー通り",
+   "nameKo": "삼청동길",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "ギャラリー",
+    "街歩き"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1990,
+   "ward": "鍾路区",
+   "address": "서울 종로구 삼청로",
+   "lat": 37.583,
+   "lng": 126.9815,
+   "approx": true,
+   "summary": "ギャラリーと小さな店が並ぶ坂道。",
+   "highlights": [
+    "ギャラリーめぐり"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": false,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-264",
+   "name": "仁寺洞 伝統工芸店",
+   "nameKo": "인사동 공예거리",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "伝統工芸",
+    "土産"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1930,
+   "ward": "鍾路区",
+   "address": "서울 종로구 인사동길",
+   "lat": 37.5735,
+   "lng": 126.986,
+   "approx": true,
+   "summary": "韓紙、陶磁器、筆などの伝統工芸品の店が並ぶ。",
+   "highlights": [
+    "韓紙と陶磁器"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-265",
+   "name": "ソウル風物市場",
+   "nameKo": "서울풍물시장",
+   "category": "shop",
+   "tags": [
+    "骨董",
+    "蚤の市"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2008,
+   "ward": "東大門区",
+   "address": "서울 동대문구 천호대로4길 21",
+   "lat": 37.5719,
+   "lng": 127.0236,
+   "approx": true,
+   "summary": "骨董や古道具、古着の店が集まる建物型の蚤の市。",
+   "highlights": [
+    "骨董と古道具"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-266",
+   "name": "黄鶴洞 台所用品通り",
+   "nameKo": "황학동 주방거리",
+   "category": "shop",
+   "tags": [
+    "道具",
+    "食器"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1980,
+   "ward": "中区",
+   "address": "서울 중구 황학동",
+   "lat": 37.569,
+   "lng": 127.02,
+   "approx": true,
+   "summary": "中古の厨房機器や食器の店が並ぶ通り。",
+   "highlights": [
+    "業務用の食器"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-267",
+   "name": "乙支路 照明・タイル通り",
+   "nameKo": "을지로 조명거리",
+   "category": "shop",
+   "tags": [
+    "問屋街",
+    "建材"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 1970,
+   "ward": "中区",
+   "address": "서울 중구 을지로4가",
+   "lat": 37.5665,
+   "lng": 126.996,
+   "approx": true,
+   "summary": "照明器具やタイル、衛生陶器の専門店が並ぶ問屋街。",
+   "highlights": [
+    "照明器具の店並み"
+   ],
+   "visit": "店ごとに異なる",
+   "closedDays": [
+    0
+   ],
+   "free": true,
+   "indoor": false,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-268",
+   "name": "コモングラウンド",
+   "nameKo": "커먼그라운드",
+   "category": "shop",
+   "tags": [
+    "観光客におすすめ",
+    "コンテナ建築"
+   ],
+   "designers": [
+    "アーバンテイナー"
+   ],
+   "designerTypes": [
+    "建築家"
+   ],
+   "year": 2015,
+   "ward": "広津区",
+   "address": "서울 광진구 아차산로 200",
+   "lat": 37.5413,
+   "lng": 127.0657,
+   "approx": true,
+   "summary": "200個の青いコンテナを積み上げたショッピングモール。",
+   "highlights": [
+    "青いコンテナの集積"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": true,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-269",
+   "name": "新世界百貨店 江南店",
+   "nameKo": "신세계백화점 강남점",
+   "category": "shop",
+   "tags": [
+    "百貨店"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2000,
+   "ward": "瑞草区",
+   "address": "서울 서초구 신반포로 176",
+   "lat": 37.5048,
+   "lng": 127.004,
+   "approx": true,
+   "summary": "高速バスターミナルに直結する大型百貨店。",
+   "highlights": [
+    "地下の食品館"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-270",
+   "name": "ポイント・オブ・ビュー 聖水",
+   "nameKo": "포인트오브뷰 성수",
+   "category": "shop",
+   "tags": [
+    "文房具",
+    "セレクトショップ"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2021,
+   "ward": "城東区",
+   "address": "서울 성동구 성수동1가",
+   "lat": 37.5463,
+   "lng": 127.045,
+   "approx": true,
+   "summary": "文房具とアートツールを集めたセレクトショップ。3フロアの店内は書斎のような雰囲気。",
+   "highlights": [
+    "書斎のような売場"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "checked",
+   "checkedAt": "2026-10-20"
+  },
+  {
+   "id": "K-271",
+   "name": "オブジェクト 西橋店",
+   "nameKo": "오브젝트 서교점",
+   "category": "shop",
+   "tags": [
+    "雑貨",
+    "作家もの"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2014,
+   "ward": "麻浦区",
+   "address": "서울 마포구 와우산로35길 13",
+   "lat": 37.553,
+   "lng": 126.923,
+   "approx": true,
+   "summary": "作家ものの雑貨や文具を集めた店。",
+   "highlights": [
+    "作家の雑貨"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-272",
+   "name": "Thanks Books",
+   "nameKo": "땡스북스",
+   "category": "shop",
+   "tags": [
+    "書店",
+    "独立系"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2011,
+   "ward": "麻浦区",
+   "address": "서울 마포구 양화로6길 57-6",
+   "lat": 37.5498,
+   "lng": 126.9195,
+   "approx": true,
+   "summary": "弘大の独立系書店。デザインやエッセイの本が充実している。",
+   "highlights": [
+    "デザインの本"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  },
+  {
+   "id": "K-273",
+   "name": "ソウル 汝矣島 IFCモール",
+   "nameKo": "IFC몰",
+   "category": "shop",
+   "tags": [
+    "モール"
+   ],
+   "designers": [],
+   "designerTypes": [],
+   "year": 2012,
+   "ward": "永登浦区",
+   "address": "서울 영등포구 국제금융로 10",
+   "lat": 37.5253,
+   "lng": 126.9255,
+   "approx": true,
+   "summary": "汝矣島の金融街の地下モール。ガラスのパビリオンが入口。",
+   "highlights": [
+    "ガラスのパビリオン"
+   ],
+   "visit": "館内自由",
+   "closedDays": null,
+   "free": true,
+   "indoor": true,
+   "tourist": false,
+   "url": "",
+   "status": "unverified"
+  }
+ ]
+}

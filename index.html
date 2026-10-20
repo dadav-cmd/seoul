@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>大谷マップinSeoul</title>
+<meta name="description" content="大谷マップinSeoul：ソウルの建築家・アーティストの設計による施設や、カフェ・ショップ・公園、観光客におすすめの場所を地図で探す個人用マップ">
+<meta name="theme-color" content="#F7F5F2">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-13 -13 26 26'%3E%3Ccircle r='12' fill='%23cd2e3a'/%3E%3Cpath fill='%230047a0' d='M-12 0A6 6 0 0 0 0 0A6 6 0 0 1 12 0A12 12 0 0 1-12 0z' transform='rotate(-33.7)'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Jua&family=Zen+Maru+Gothic:wght@700;900&family=Noto+Sans+KR:wght@400;500&family=Shippori+Mincho+B1:wght@600;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="vendor/markercluster/MarkerCluster.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+
+  <header class="topbar">
+    <h1 class="brand">
+      <svg class="flag" viewBox="-36 -24 72 48" role="img" aria-label="太極旗">
+        <rect x="-36" y="-24" width="72" height="48" fill="#fff"/>
+        <g transform="rotate(-56.3099325)">
+          <g id="kr-bars2"><path id="kr-bars" d="M-6-25H6M-6-22H6M-6-19H6" stroke="#000" stroke-width="2"/><use href="#kr-bars" y="44"/></g>
+          <path stroke="#fff" stroke-width="1" d="M0,17v10"/>
+          <circle fill="#cd2e3a" r="12"/>
+          <path fill="#0047a0" d="M0-12A6,6 0 0 0 0,0A6,6 0 0 1 0,12A12,12 0 0,1 0-12z"/>
+        </g>
+        <g transform="rotate(-123.6900675)">
+          <use href="#kr-bars2"/>
+          <path stroke="#fff" stroke-width="1" d="M0-23.5v3M0,17v3.5M0,23.5v3"/>
+        </g>
+      </svg>
+      <span class="brand-text"><span class="brand-name">大谷マップ</span><span class="brand-in">in</span><span class="brand-city">Seoul</span></span>
+    </h1>
+    <div class="search">
+      <label for="q" class="visually-hidden">キーワード検索</label>
+      <input id="q" type="search" placeholder="施設名・韓国語名・設計者・エリアで検索" autocomplete="off" enterkeyhint="search">
+    </div>
+    <button id="filter-btn" class="icon-btn" type="button" aria-expanded="false" aria-controls="filters">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg>
+      <span>絞り込み</span>
+      <span id="filter-count" class="badge" hidden>0</span>
+    </button>
+  </header>
+
+  <section id="filters" class="filters" hidden aria-label="絞り込み条件">
+    <div class="filters-inner">
+      <div class="filter-group">
+        <h2 class="label">カテゴリ</h2>
+        <div id="cat-chips" class="chips"></div>
+      </div>
+      <div class="filter-group">
+        <h2 class="label">条件</h2>
+        <div class="chips">
+          <button type="button" class="chip toggle" data-flag="tourist" aria-pressed="false">観光客におすすめ</button>
+          <button type="button" class="chip toggle" data-flag="designed" aria-pressed="false">設計者がわかる</button>
+          <button type="button" class="chip toggle" data-flag="indoor" aria-pressed="false">雨の日OK（屋内）</button>
+          <button type="button" class="chip toggle" data-flag="free" aria-pressed="false">無料</button>
+          <button type="button" class="chip toggle" data-flag="openToday" aria-pressed="false">今日開いている</button>
+        </div>
+      </div>
+      <div class="filter-group">
+        <label class="label" for="ward">区</label>
+        <select id="ward"><option value="">25区すべて</option></select>
+      </div>
+      <div class="filter-actions">
+        <button id="filter-reset" type="button" class="text-btn">条件をクリア</button>
+        <button id="filter-close" type="button" class="primary-btn">地図に戻る</button>
+      </div>
+    </div>
+  </section>
+
+  <main class="stage">
+    <div id="map" role="application" aria-label="ソウルの地図"></div>
+    <button id="locate" class="locate" type="button" aria-pressed="false" title="現在地を表示">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v4M12 18v4M2 12h4M18 12h4"/></svg>
+      <span class="visually-hidden">現在地を表示</span>
+    </button>
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  </main>
+
+  <aside id="sheet" class="sheet" data-state="peek" aria-label="スポット">
+    <button id="sheet-handle" class="sheet-handle" type="button" aria-label="一覧を広げる" aria-expanded="false"><span></span></button>
+
+    <div id="list-view" class="view">
+      <div class="hello" aria-hidden="true">
+        <span class="hello-ko" lang="ko">안녕하세요!</span>
+        <span class="hello-ja">今日はどこへ行く？</span>
+      </div>
+      <div class="moods" role="group" aria-label="気分で探す">
+        <p class="moods-label">気分で探す</p>
+        <div id="mood-chips" class="mood-row"></div>
+      </div>
+      <div class="list-head">
+        <div>
+          <h2 class="list-title">近くのスポット</h2>
+          <p id="list-basis" class="list-basis">地図の中心から近い順</p>
+        </div>
+        <p id="list-count" class="list-count"></p>
+      </div>
+      <div class="radius" role="group" aria-label="範囲">
+        <button type="button" class="seg" data-radius="500">500m</button>
+        <button type="button" class="seg" data-radius="1000">1km</button>
+        <button type="button" class="seg" data-radius="3000" aria-pressed="true">3km</button>
+        <button type="button" class="seg" data-radius="0">すべて</button>
+      </div>
+      <ol id="list" class="list"></ol>
+      <p id="list-empty" class="empty" hidden></p>
+    </div>
+
+    <article id="detail-view" class="view detail" hidden>
+      <button id="back" type="button" class="back-btn">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>一覧に戻る
+      </button>
+      <div id="detail"></div>
+    </article>
+  </aside>
+
+</div>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="vendor/markercluster/leaflet.markercluster.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
